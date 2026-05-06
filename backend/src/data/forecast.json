@@ -1,0 +1,175 @@
+{
+  "generated_at": 1777481169856,
+  "accuracy": 94.2,
+  "model": "LSTM-v2",
+  "points": [
+    {
+      "ts": 1777481169856,
+      "predicted_rps": 272,
+      "confidence_low": 231,
+      "confidence_high": 313,
+      "recommended_servers": 2
+    },
+    {
+      "ts": 1777484769856,
+      "predicted_rps": 215,
+      "confidence_low": 183,
+      "confidence_high": 247,
+      "recommended_servers": 2
+    },
+    {
+      "ts": 1777488369856,
+      "predicted_rps": 229,
+      "confidence_low": 195,
+      "confidence_high": 263,
+      "recommended_servers": 2
+    },
+    {
+      "ts": 1777491969856,
+      "predicted_rps": 258,
+      "confidence_low": 219,
+      "confidence_high": 297,
+      "recommended_servers": 2
+    },
+    {
+      "ts": 1777495569856,
+      "predicted_rps": 254,
+      "confidence_low": 216,
+      "confidence_high": 292,
+      "recommended_servers": 2
+    },
+    {
+      "ts": 1777499169856,
+      "predicted_rps": 289,
+      "confidence_low": 246,
+      "confidence_high": 332,
+      "recommended_servers": 2
+    },
+    {
+      "ts": 1777502769856,
+      "predicted_rps": 375,
+      "confidence_low": 319,
+      "confidence_high": 431,
+      "recommended_servers": 2
+    },
+    {
+      "ts": 1777506369856,
+      "predicted_rps": 452,
+      "confidence_low": 384,
+      "confidence_high": 520,
+      "recommended_servers": 3
+    },
+    {
+      "ts": 1777509969856,
+      "predicted_rps": 531,
+      "confidence_low": 451,
+      "confidence_high": 611,
+      "recommended_servers": 3
+    },
+    {
+      "ts": 1777513569856,
+      "predicted_rps": 590,
+      "confidence_low": 502,
+      "confidence_high": 679,
+      "recommended_servers": 3
+    },
+    {
+      "ts": 1777517169856,
+      "predicted_rps": 699,
+      "confidence_low": 594,
+      "confidence_high": 804,
+      "recommended_servers": 4
+    },
+    {
+      "ts": 1777520769856,
+      "predicted_rps": 757,
+      "confidence_low": 643,
+      "confidence_high": 871,
+      "recommended_servers": 4
+    },
+    {
+      "ts": 1777524369856,
+      "predicted_rps": 787,
+      "confidence_low": 669,
+      "confidence_high": 905,
+      "recommended_servers": 4
+    },
+    {
+      "ts": 1777527969856,
+      "predicted_rps": 807,
+      "confidence_low": 686,
+      "confidence_high": 928,
+      "recommended_servers": 5
+    },
+    {
+      "ts": 1777531569856,
+      "predicted_rps": 821,
+      "confidence_low": 698,
+      "confidence_high": 944,
+      "recommended_servers": 5
+    },
+    {
+      "ts": 1777535169856,
+      "predicted_rps": 833,
+      "confidence_low": 708,
+      "confidence_high": 958,
+      "recommended_servers": 5
+    },
+    {
+      "ts": 1777538769856,
+      "predicted_rps": 784,
+      "confidence_low": 666,
+      "confidence_high": 902,
+      "recommended_servers": 4
+    },
+    {
+      "ts": 1777542369856,
+      "predicted_rps": 752,
+      "confidence_low": 639,
+      "confidence_high": 865,
+      "recommended_servers": 4
+    },
+    {
+      "ts": 1777545969856,
+      "predicted_rps": 673,
+      "confidence_low": 572,
+      "confidence_high": 774,
+      "recommended_servers": 4
+    },
+    {
+      "ts": 1777549569856,
+      "predicted_rps": 587,
+      "confidence_low": 499,
+      "confidence_high": 675,
+      "recommended_servers": 3
+    },
+    {
+      "ts": 1777553169856,
+      "predicted_rps": 532,
+      "confidence_low": 452,
+      "confidence_high": 612,
+      "recommended_servers": 3
+    },
+    {
+      "ts": 1777556769856,
+      "predicted_rps": 458,
+      "confidence_low": 389,
+      "confidence_high": 527,
+      "recommended_servers": 3
+    },
+    {
+      "ts": 1777560369856,
+      "predicted_rps": 365,
+      "confidence_low": 310,
+      "confidence_high": 420,
+      "recommended_servers": 2
+    },
+    {
+      "ts": 1777563969856,
+      "predicted_rps": 1117,
+      "confidence_low": 949,
+      "confidence_high": 1285,
+      "recommended_servers": 6
+    }
+  ]
+}

@@ -1,0 +1,3899 @@
+[
+  {
+    "ts": 1777740403090,
+    "rps": 243,
+    "cpu_avg": 41.4,
+    "memory_avg": 42.2,
+    "network_mbps": 24.8,
+    "carbon_rate": 0.1158,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777741003090,
+    "rps": 268,
+    "cpu_avg": 39.7,
+    "memory_avg": 44.7,
+    "network_mbps": 29.5,
+    "carbon_rate": 0.1111,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777741603090,
+    "rps": 265,
+    "cpu_avg": 33.3,
+    "memory_avg": 47.1,
+    "network_mbps": 31,
+    "carbon_rate": 0.0932,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777742203090,
+    "rps": 212,
+    "cpu_avg": 36.6,
+    "memory_avg": 45.1,
+    "network_mbps": 23.2,
+    "carbon_rate": 0.1023,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777742803090,
+    "rps": 278,
+    "cpu_avg": 37.5,
+    "memory_avg": 41.2,
+    "network_mbps": 31.7,
+    "carbon_rate": 0.1048,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777743403090,
+    "rps": 192,
+    "cpu_avg": 39.2,
+    "memory_avg": 44.1,
+    "network_mbps": 22,
+    "carbon_rate": 0.1095,
+    "latency_p99": 129
+  },
+  {
+    "ts": 1777744003090,
+    "rps": 230,
+    "cpu_avg": 40.4,
+    "memory_avg": 42.3,
+    "network_mbps": 27.6,
+    "carbon_rate": 0.1129,
+    "latency_p99": 129
+  },
+  {
+    "ts": 1777744603090,
+    "rps": 204,
+    "cpu_avg": 37.8,
+    "memory_avg": 46.5,
+    "network_mbps": 23.2,
+    "carbon_rate": 0.1056,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777745203090,
+    "rps": 188,
+    "cpu_avg": 39.1,
+    "memory_avg": 42.9,
+    "network_mbps": 22.9,
+    "carbon_rate": 0.1094,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777745803090,
+    "rps": 183,
+    "cpu_avg": 40,
+    "memory_avg": 44.9,
+    "network_mbps": 22.9,
+    "carbon_rate": 0.1118,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777746403090,
+    "rps": 182,
+    "cpu_avg": 38.3,
+    "memory_avg": 44.1,
+    "network_mbps": 21.4,
+    "carbon_rate": 0.1072,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777747003090,
+    "rps": 198,
+    "cpu_avg": 38.2,
+    "memory_avg": 47.2,
+    "network_mbps": 21.2,
+    "carbon_rate": 0.1068,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777747603090,
+    "rps": 201,
+    "cpu_avg": 36.1,
+    "memory_avg": 44.7,
+    "network_mbps": 23.4,
+    "carbon_rate": 0.101,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777748203090,
+    "rps": 208,
+    "cpu_avg": 36.7,
+    "memory_avg": 43.4,
+    "network_mbps": 24.1,
+    "carbon_rate": 0.1027,
+    "latency_p99": 129
+  },
+  {
+    "ts": 1777748803090,
+    "rps": 184,
+    "cpu_avg": 31.1,
+    "memory_avg": 45.3,
+    "network_mbps": 23.3,
+    "carbon_rate": 0.0869,
+    "latency_p99": 119
+  },
+  {
+    "ts": 1777749403090,
+    "rps": 239,
+    "cpu_avg": 32.2,
+    "memory_avg": 40.4,
+    "network_mbps": 25.6,
+    "carbon_rate": 0.0899,
+    "latency_p99": 129
+  },
+  {
+    "ts": 1777750003090,
+    "rps": 200,
+    "cpu_avg": 37.9,
+    "memory_avg": 40,
+    "network_mbps": 20.3,
+    "carbon_rate": 0.106,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777750603090,
+    "rps": 186,
+    "cpu_avg": 30.8,
+    "memory_avg": 42.9,
+    "network_mbps": 22.7,
+    "carbon_rate": 0.0861,
+    "latency_p99": 127
+  },
+  {
+    "ts": 1777751203090,
+    "rps": 240,
+    "cpu_avg": 36.6,
+    "memory_avg": 47.7,
+    "network_mbps": 24.2,
+    "carbon_rate": 0.1022,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777751803090,
+    "rps": 186,
+    "cpu_avg": 33.6,
+    "memory_avg": 40.3,
+    "network_mbps": 21.8,
+    "carbon_rate": 0.0938,
+    "latency_p99": 127
+  },
+  {
+    "ts": 1777752403090,
+    "rps": 243,
+    "cpu_avg": 39.2,
+    "memory_avg": 47.1,
+    "network_mbps": 28.8,
+    "carbon_rate": 0.1096,
+    "latency_p99": 130
+  },
+  {
+    "ts": 1777753003090,
+    "rps": 212,
+    "cpu_avg": 40.7,
+    "memory_avg": 41,
+    "network_mbps": 25.6,
+    "carbon_rate": 0.1137,
+    "latency_p99": 144
+  },
+  {
+    "ts": 1777753603090,
+    "rps": 237,
+    "cpu_avg": 39,
+    "memory_avg": 43.2,
+    "network_mbps": 24.4,
+    "carbon_rate": 0.109,
+    "latency_p99": 127
+  },
+  {
+    "ts": 1777754203090,
+    "rps": 221,
+    "cpu_avg": 32.6,
+    "memory_avg": 40.4,
+    "network_mbps": 26.4,
+    "carbon_rate": 0.091,
+    "latency_p99": 125
+  },
+  {
+    "ts": 1777754803090,
+    "rps": 249,
+    "cpu_avg": 37.3,
+    "memory_avg": 42.2,
+    "network_mbps": 26.5,
+    "carbon_rate": 0.1044,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777755403090,
+    "rps": 221,
+    "cpu_avg": 35.7,
+    "memory_avg": 40.6,
+    "network_mbps": 22.4,
+    "carbon_rate": 0.0998,
+    "latency_p99": 129
+  },
+  {
+    "ts": 1777756003090,
+    "rps": 269,
+    "cpu_avg": 39.3,
+    "memory_avg": 44.1,
+    "network_mbps": 29.1,
+    "carbon_rate": 0.1098,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777756603090,
+    "rps": 213,
+    "cpu_avg": 38.6,
+    "memory_avg": 41.9,
+    "network_mbps": 21.8,
+    "carbon_rate": 0.1078,
+    "latency_p99": 128
+  },
+  {
+    "ts": 1777757203090,
+    "rps": 225,
+    "cpu_avg": 37.4,
+    "memory_avg": 40.6,
+    "network_mbps": 24.5,
+    "carbon_rate": 0.1045,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777757803090,
+    "rps": 294,
+    "cpu_avg": 41.3,
+    "memory_avg": 43,
+    "network_mbps": 33.7,
+    "carbon_rate": 0.1153,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777758403090,
+    "rps": 307,
+    "cpu_avg": 34.3,
+    "memory_avg": 46.1,
+    "network_mbps": 35.5,
+    "carbon_rate": 0.0958,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777759003090,
+    "rps": 322,
+    "cpu_avg": 34.6,
+    "memory_avg": 44.9,
+    "network_mbps": 36.6,
+    "carbon_rate": 0.0967,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777759603090,
+    "rps": 262,
+    "cpu_avg": 34.4,
+    "memory_avg": 47.4,
+    "network_mbps": 26.2,
+    "carbon_rate": 0.0961,
+    "latency_p99": 127
+  },
+  {
+    "ts": 1777760203090,
+    "rps": 254,
+    "cpu_avg": 32.9,
+    "memory_avg": 48.2,
+    "network_mbps": 27.4,
+    "carbon_rate": 0.0919,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777760803090,
+    "rps": 294,
+    "cpu_avg": 36,
+    "memory_avg": 45.3,
+    "network_mbps": 31.9,
+    "carbon_rate": 0.1006,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777761403090,
+    "rps": 387,
+    "cpu_avg": 43.5,
+    "memory_avg": 50.6,
+    "network_mbps": 42.8,
+    "carbon_rate": 0.1215,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777762003090,
+    "rps": 368,
+    "cpu_avg": 36.4,
+    "memory_avg": 43.8,
+    "network_mbps": 37.3,
+    "carbon_rate": 0.1017,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777762603090,
+    "rps": 331,
+    "cpu_avg": 40.2,
+    "memory_avg": 43.2,
+    "network_mbps": 33.3,
+    "carbon_rate": 0.1123,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777763203090,
+    "rps": 314,
+    "cpu_avg": 42,
+    "memory_avg": 46.9,
+    "network_mbps": 32.5,
+    "carbon_rate": 0.1174,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777763803090,
+    "rps": 375,
+    "cpu_avg": 43.6,
+    "memory_avg": 43.6,
+    "network_mbps": 39.4,
+    "carbon_rate": 0.1219,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777764403090,
+    "rps": 322,
+    "cpu_avg": 41.5,
+    "memory_avg": 42.5,
+    "network_mbps": 36.8,
+    "carbon_rate": 0.1162,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777765003090,
+    "rps": 387,
+    "cpu_avg": 43.6,
+    "memory_avg": 49.9,
+    "network_mbps": 43.4,
+    "carbon_rate": 0.1218,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777765603090,
+    "rps": 462,
+    "cpu_avg": 47.5,
+    "memory_avg": 45.2,
+    "network_mbps": 49.2,
+    "carbon_rate": 0.1327,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777766203090,
+    "rps": 450,
+    "cpu_avg": 46.7,
+    "memory_avg": 47.6,
+    "network_mbps": 47.2,
+    "carbon_rate": 0.1306,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777766803090,
+    "rps": 384,
+    "cpu_avg": 40.8,
+    "memory_avg": 48.9,
+    "network_mbps": 39.7,
+    "carbon_rate": 0.114,
+    "latency_p99": 131
+  },
+  {
+    "ts": 1777767403090,
+    "rps": 391,
+    "cpu_avg": 39.8,
+    "memory_avg": 45.5,
+    "network_mbps": 43.5,
+    "carbon_rate": 0.1114,
+    "latency_p99": 135
+  },
+  {
+    "ts": 1777768003090,
+    "rps": 412,
+    "cpu_avg": 38.5,
+    "memory_avg": 44.2,
+    "network_mbps": 44.6,
+    "carbon_rate": 0.1076,
+    "latency_p99": 126
+  },
+  {
+    "ts": 1777768603090,
+    "rps": 478,
+    "cpu_avg": 47.9,
+    "memory_avg": 50.5,
+    "network_mbps": 50.7,
+    "carbon_rate": 0.1339,
+    "latency_p99": 156
+  },
+  {
+    "ts": 1777769203090,
+    "rps": 464,
+    "cpu_avg": 46.3,
+    "memory_avg": 51.4,
+    "network_mbps": 47.3,
+    "carbon_rate": 0.1294,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777769803090,
+    "rps": 524,
+    "cpu_avg": 42.5,
+    "memory_avg": 46.8,
+    "network_mbps": 52.5,
+    "carbon_rate": 0.1187,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777770403090,
+    "rps": 474,
+    "cpu_avg": 40.7,
+    "memory_avg": 51.3,
+    "network_mbps": 50.9,
+    "carbon_rate": 0.1138,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777771003090,
+    "rps": 518,
+    "cpu_avg": 43.1,
+    "memory_avg": 48.1,
+    "network_mbps": 54.8,
+    "carbon_rate": 0.1205,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777771603090,
+    "rps": 524,
+    "cpu_avg": 46.1,
+    "memory_avg": 47.3,
+    "network_mbps": 52.9,
+    "carbon_rate": 0.1289,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777772203090,
+    "rps": 614,
+    "cpu_avg": 43.4,
+    "memory_avg": 48.4,
+    "network_mbps": 63.4,
+    "carbon_rate": 0.1213,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777772803090,
+    "rps": 563,
+    "cpu_avg": 42.4,
+    "memory_avg": 50.2,
+    "network_mbps": 61.3,
+    "carbon_rate": 0.1186,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777773403090,
+    "rps": 559,
+    "cpu_avg": 48.5,
+    "memory_avg": 49.7,
+    "network_mbps": 57.8,
+    "carbon_rate": 0.1356,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777774003090,
+    "rps": 568,
+    "cpu_avg": 40.7,
+    "memory_avg": 51.1,
+    "network_mbps": 61.4,
+    "carbon_rate": 0.1139,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777774603090,
+    "rps": 582,
+    "cpu_avg": 48.4,
+    "memory_avg": 52.9,
+    "network_mbps": 59.4,
+    "carbon_rate": 0.1353,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777775203090,
+    "rps": 596,
+    "cpu_avg": 49.9,
+    "memory_avg": 50.7,
+    "network_mbps": 61.1,
+    "carbon_rate": 0.1395,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777775803090,
+    "rps": 622,
+    "cpu_avg": 47.5,
+    "memory_avg": 49.7,
+    "network_mbps": 63.4,
+    "carbon_rate": 0.1328,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777776403090,
+    "rps": 620,
+    "cpu_avg": 49.1,
+    "memory_avg": 52.9,
+    "network_mbps": 64.9,
+    "carbon_rate": 0.1374,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777777003090,
+    "rps": 631,
+    "cpu_avg": 48.1,
+    "memory_avg": 48,
+    "network_mbps": 63.4,
+    "carbon_rate": 0.1345,
+    "latency_p99": 154
+  },
+  {
+    "ts": 1777777603090,
+    "rps": 682,
+    "cpu_avg": 48.4,
+    "memory_avg": 50,
+    "network_mbps": 68.5,
+    "carbon_rate": 0.1353,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777778203090,
+    "rps": 684,
+    "cpu_avg": 53.3,
+    "memory_avg": 54.9,
+    "network_mbps": 68.7,
+    "carbon_rate": 0.149,
+    "latency_p99": 148
+  },
+  {
+    "ts": 1777778803090,
+    "rps": 638,
+    "cpu_avg": 46.1,
+    "memory_avg": 50.2,
+    "network_mbps": 66.1,
+    "carbon_rate": 0.129,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777779403090,
+    "rps": 738,
+    "cpu_avg": 53.8,
+    "memory_avg": 53.2,
+    "network_mbps": 75.4,
+    "carbon_rate": 0.1504,
+    "latency_p99": 145
+  },
+  {
+    "ts": 1777780003090,
+    "rps": 745,
+    "cpu_avg": 53.1,
+    "memory_avg": 53.2,
+    "network_mbps": 78.4,
+    "carbon_rate": 0.1486,
+    "latency_p99": 148
+  },
+  {
+    "ts": 1777780603090,
+    "rps": 716,
+    "cpu_avg": 47.6,
+    "memory_avg": 52.9,
+    "network_mbps": 73.1,
+    "carbon_rate": 0.1332,
+    "latency_p99": 145
+  },
+  {
+    "ts": 1777781203090,
+    "rps": 707,
+    "cpu_avg": 46.4,
+    "memory_avg": 56,
+    "network_mbps": 75,
+    "carbon_rate": 0.1296,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777781803090,
+    "rps": 742,
+    "cpu_avg": 47.1,
+    "memory_avg": 57.2,
+    "network_mbps": 76,
+    "carbon_rate": 0.1318,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777782403090,
+    "rps": 718,
+    "cpu_avg": 45.1,
+    "memory_avg": 54.2,
+    "network_mbps": 75.9,
+    "carbon_rate": 0.126,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777783003090,
+    "rps": 1092,
+    "cpu_avg": 57.2,
+    "memory_avg": 63.2,
+    "network_mbps": 112.5,
+    "carbon_rate": 0.16,
+    "latency_p99": 161
+  },
+  {
+    "ts": 1777783603090,
+    "rps": 1072,
+    "cpu_avg": 57.8,
+    "memory_avg": 57.8,
+    "network_mbps": 110.2,
+    "carbon_rate": 0.1617,
+    "latency_p99": 163
+  },
+  {
+    "ts": 1777784203090,
+    "rps": 1024,
+    "cpu_avg": 56.7,
+    "memory_avg": 56.2,
+    "network_mbps": 103.9,
+    "carbon_rate": 0.1584,
+    "latency_p99": 166
+  },
+  {
+    "ts": 1777784803090,
+    "rps": 1078,
+    "cpu_avg": 55,
+    "memory_avg": 58.1,
+    "network_mbps": 112,
+    "carbon_rate": 0.1537,
+    "latency_p99": 162
+  },
+  {
+    "ts": 1777785403090,
+    "rps": 1022,
+    "cpu_avg": 52.9,
+    "memory_avg": 61,
+    "network_mbps": 104.9,
+    "carbon_rate": 0.1479,
+    "latency_p99": 161
+  },
+  {
+    "ts": 1777786003090,
+    "rps": 1066,
+    "cpu_avg": 60.4,
+    "memory_avg": 55.5,
+    "network_mbps": 111.1,
+    "carbon_rate": 0.169,
+    "latency_p99": 170
+  },
+  {
+    "ts": 1777786603090,
+    "rps": 786,
+    "cpu_avg": 54.8,
+    "memory_avg": 55.5,
+    "network_mbps": 82.7,
+    "carbon_rate": 0.1531,
+    "latency_p99": 158
+  },
+  {
+    "ts": 1777787203090,
+    "rps": 759,
+    "cpu_avg": 50.4,
+    "memory_avg": 52.8,
+    "network_mbps": 77.2,
+    "carbon_rate": 0.141,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777787803090,
+    "rps": 797,
+    "cpu_avg": 54.4,
+    "memory_avg": 53.3,
+    "network_mbps": 79.8,
+    "carbon_rate": 0.1521,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777788403090,
+    "rps": 824,
+    "cpu_avg": 55.3,
+    "memory_avg": 54.9,
+    "network_mbps": 86.8,
+    "carbon_rate": 0.1546,
+    "latency_p99": 163
+  },
+  {
+    "ts": 1777789003090,
+    "rps": 782,
+    "cpu_avg": 53.6,
+    "memory_avg": 53.2,
+    "network_mbps": 80.2,
+    "carbon_rate": 0.1498,
+    "latency_p99": 157
+  },
+  {
+    "ts": 1777789603090,
+    "rps": 777,
+    "cpu_avg": 47.2,
+    "memory_avg": 51,
+    "network_mbps": 82.6,
+    "carbon_rate": 0.1319,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777790203090,
+    "rps": 796,
+    "cpu_avg": 47,
+    "memory_avg": 55.5,
+    "network_mbps": 81.8,
+    "carbon_rate": 0.1315,
+    "latency_p99": 156
+  },
+  {
+    "ts": 1777790803090,
+    "rps": 792,
+    "cpu_avg": 55.6,
+    "memory_avg": 53.9,
+    "network_mbps": 81.1,
+    "carbon_rate": 0.1554,
+    "latency_p99": 163
+  },
+  {
+    "ts": 1777791403090,
+    "rps": 782,
+    "cpu_avg": 48.1,
+    "memory_avg": 51.2,
+    "network_mbps": 81.8,
+    "carbon_rate": 0.1345,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777792003090,
+    "rps": 819,
+    "cpu_avg": 48.3,
+    "memory_avg": 52.5,
+    "network_mbps": 82.7,
+    "carbon_rate": 0.1349,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777792603090,
+    "rps": 799,
+    "cpu_avg": 50.1,
+    "memory_avg": 54.4,
+    "network_mbps": 81.1,
+    "carbon_rate": 0.14,
+    "latency_p99": 154
+  },
+  {
+    "ts": 1777793203090,
+    "rps": 804,
+    "cpu_avg": 50.7,
+    "memory_avg": 54.5,
+    "network_mbps": 82.8,
+    "carbon_rate": 0.1418,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777793803090,
+    "rps": 765,
+    "cpu_avg": 47.6,
+    "memory_avg": 55.3,
+    "network_mbps": 78.5,
+    "carbon_rate": 0.1331,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777794403090,
+    "rps": 785,
+    "cpu_avg": 48.1,
+    "memory_avg": 52.1,
+    "network_mbps": 81.9,
+    "carbon_rate": 0.1346,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777795003090,
+    "rps": 783,
+    "cpu_avg": 46.7,
+    "memory_avg": 51.8,
+    "network_mbps": 80.4,
+    "carbon_rate": 0.1306,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777795603090,
+    "rps": 757,
+    "cpu_avg": 48.2,
+    "memory_avg": 50.1,
+    "network_mbps": 78.8,
+    "carbon_rate": 0.1349,
+    "latency_p99": 148
+  },
+  {
+    "ts": 1777796203090,
+    "rps": 792,
+    "cpu_avg": 48.5,
+    "memory_avg": 50.9,
+    "network_mbps": 83.8,
+    "carbon_rate": 0.1355,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777796803090,
+    "rps": 766,
+    "cpu_avg": 49.3,
+    "memory_avg": 56.1,
+    "network_mbps": 77.6,
+    "carbon_rate": 0.1379,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777797403090,
+    "rps": 785,
+    "cpu_avg": 52.3,
+    "memory_avg": 58,
+    "network_mbps": 80,
+    "carbon_rate": 0.1464,
+    "latency_p99": 148
+  },
+  {
+    "ts": 1777798003090,
+    "rps": 766,
+    "cpu_avg": 46.3,
+    "memory_avg": 50.3,
+    "network_mbps": 79.5,
+    "carbon_rate": 0.1296,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777798603090,
+    "rps": 730,
+    "cpu_avg": 46.6,
+    "memory_avg": 50.3,
+    "network_mbps": 73.9,
+    "carbon_rate": 0.1303,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777799203090,
+    "rps": 781,
+    "cpu_avg": 52,
+    "memory_avg": 50.5,
+    "network_mbps": 82.9,
+    "carbon_rate": 0.1453,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777799803090,
+    "rps": 729,
+    "cpu_avg": 48.1,
+    "memory_avg": 56.2,
+    "network_mbps": 75.8,
+    "carbon_rate": 0.1344,
+    "latency_p99": 154
+  },
+  {
+    "ts": 1777800403090,
+    "rps": 738,
+    "cpu_avg": 52.2,
+    "memory_avg": 55.3,
+    "network_mbps": 74.2,
+    "carbon_rate": 0.1461,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777801003090,
+    "rps": 679,
+    "cpu_avg": 49.1,
+    "memory_avg": 50.8,
+    "network_mbps": 69.3,
+    "carbon_rate": 0.1373,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777801603090,
+    "rps": 678,
+    "cpu_avg": 46.5,
+    "memory_avg": 55.1,
+    "network_mbps": 71,
+    "carbon_rate": 0.1302,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777802203090,
+    "rps": 729,
+    "cpu_avg": 48.8,
+    "memory_avg": 53.6,
+    "network_mbps": 74.1,
+    "carbon_rate": 0.1365,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777802803090,
+    "rps": 675,
+    "cpu_avg": 51.1,
+    "memory_avg": 49.2,
+    "network_mbps": 68.6,
+    "carbon_rate": 0.143,
+    "latency_p99": 159
+  },
+  {
+    "ts": 1777803403090,
+    "rps": 739,
+    "cpu_avg": 48.9,
+    "memory_avg": 55.2,
+    "network_mbps": 74.9,
+    "carbon_rate": 0.1366,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777804003090,
+    "rps": 745,
+    "cpu_avg": 46.8,
+    "memory_avg": 50.9,
+    "network_mbps": 75.1,
+    "carbon_rate": 0.1307,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777804603090,
+    "rps": 665,
+    "cpu_avg": 51.1,
+    "memory_avg": 52.5,
+    "network_mbps": 70.4,
+    "carbon_rate": 0.1429,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777805203090,
+    "rps": 639,
+    "cpu_avg": 47.6,
+    "memory_avg": 55.3,
+    "network_mbps": 66.7,
+    "carbon_rate": 0.1332,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777805803090,
+    "rps": 614,
+    "cpu_avg": 47.4,
+    "memory_avg": 51.4,
+    "network_mbps": 64.5,
+    "carbon_rate": 0.1326,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777806403090,
+    "rps": 648,
+    "cpu_avg": 48.4,
+    "memory_avg": 50.6,
+    "network_mbps": 67.4,
+    "carbon_rate": 0.1353,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777807003090,
+    "rps": 634,
+    "cpu_avg": 52.2,
+    "memory_avg": 54.9,
+    "network_mbps": 64.1,
+    "carbon_rate": 0.1459,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777807603090,
+    "rps": 685,
+    "cpu_avg": 47,
+    "memory_avg": 50.9,
+    "network_mbps": 71.5,
+    "carbon_rate": 0.1314,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777808203090,
+    "rps": 611,
+    "cpu_avg": 47.2,
+    "memory_avg": 47.3,
+    "network_mbps": 64.2,
+    "carbon_rate": 0.1319,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777808803090,
+    "rps": 600,
+    "cpu_avg": 50.3,
+    "memory_avg": 49,
+    "network_mbps": 63.2,
+    "carbon_rate": 0.1405,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777809403090,
+    "rps": 558,
+    "cpu_avg": 47.1,
+    "memory_avg": 47,
+    "network_mbps": 56,
+    "carbon_rate": 0.1317,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777810003090,
+    "rps": 541,
+    "cpu_avg": 43,
+    "memory_avg": 53.1,
+    "network_mbps": 54.6,
+    "carbon_rate": 0.1203,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777810603090,
+    "rps": 605,
+    "cpu_avg": 44.9,
+    "memory_avg": 52.4,
+    "network_mbps": 63.6,
+    "carbon_rate": 0.1255,
+    "latency_p99": 144
+  },
+  {
+    "ts": 1777811203090,
+    "rps": 569,
+    "cpu_avg": 40.8,
+    "memory_avg": 47.4,
+    "network_mbps": 57.4,
+    "carbon_rate": 0.1141,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777811803090,
+    "rps": 461,
+    "cpu_avg": 47.3,
+    "memory_avg": 49.2,
+    "network_mbps": 47.7,
+    "carbon_rate": 0.1321,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777812403090,
+    "rps": 505,
+    "cpu_avg": 47.9,
+    "memory_avg": 52,
+    "network_mbps": 50.9,
+    "carbon_rate": 0.134,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777813003090,
+    "rps": 496,
+    "cpu_avg": 45.9,
+    "memory_avg": 48.5,
+    "network_mbps": 52.4,
+    "carbon_rate": 0.1283,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777813603090,
+    "rps": 535,
+    "cpu_avg": 46.7,
+    "memory_avg": 51.6,
+    "network_mbps": 56.6,
+    "carbon_rate": 0.1305,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777814203090,
+    "rps": 504,
+    "cpu_avg": 42.4,
+    "memory_avg": 47.9,
+    "network_mbps": 54.7,
+    "carbon_rate": 0.1187,
+    "latency_p99": 144
+  },
+  {
+    "ts": 1777814803090,
+    "rps": 511,
+    "cpu_avg": 44.9,
+    "memory_avg": 52.3,
+    "network_mbps": 51.5,
+    "carbon_rate": 0.1256,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777815403090,
+    "rps": 388,
+    "cpu_avg": 40,
+    "memory_avg": 47.9,
+    "network_mbps": 40.7,
+    "carbon_rate": 0.1119,
+    "latency_p99": 132
+  },
+  {
+    "ts": 1777816003090,
+    "rps": 448,
+    "cpu_avg": 44.3,
+    "memory_avg": 50.4,
+    "network_mbps": 46.2,
+    "carbon_rate": 0.124,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777816603090,
+    "rps": 460,
+    "cpu_avg": 39.6,
+    "memory_avg": 51.8,
+    "network_mbps": 49.4,
+    "carbon_rate": 0.1109,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777817203090,
+    "rps": 414,
+    "cpu_avg": 44.7,
+    "memory_avg": 45,
+    "network_mbps": 43.8,
+    "carbon_rate": 0.125,
+    "latency_p99": 148
+  },
+  {
+    "ts": 1777817803090,
+    "rps": 460,
+    "cpu_avg": 42.5,
+    "memory_avg": 47.8,
+    "network_mbps": 48,
+    "carbon_rate": 0.119,
+    "latency_p99": 132
+  },
+  {
+    "ts": 1777818403090,
+    "rps": 388,
+    "cpu_avg": 38.1,
+    "memory_avg": 45.6,
+    "network_mbps": 43.1,
+    "carbon_rate": 0.1065,
+    "latency_p99": 128
+  },
+  {
+    "ts": 1777819003090,
+    "rps": 374,
+    "cpu_avg": 36.5,
+    "memory_avg": 49.9,
+    "network_mbps": 38.3,
+    "carbon_rate": 0.102,
+    "latency_p99": 131
+  },
+  {
+    "ts": 1777819603090,
+    "rps": 320,
+    "cpu_avg": 35.5,
+    "memory_avg": 49.3,
+    "network_mbps": 34.8,
+    "carbon_rate": 0.0993,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777820203090,
+    "rps": 334,
+    "cpu_avg": 35.4,
+    "memory_avg": 45.5,
+    "network_mbps": 37.8,
+    "carbon_rate": 0.0989,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777820803090,
+    "rps": 319,
+    "cpu_avg": 40.1,
+    "memory_avg": 44.8,
+    "network_mbps": 32.1,
+    "carbon_rate": 0.112,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777821403090,
+    "rps": 363,
+    "cpu_avg": 40.1,
+    "memory_avg": 45,
+    "network_mbps": 36.6,
+    "carbon_rate": 0.112,
+    "latency_p99": 129
+  },
+  {
+    "ts": 1777822003090,
+    "rps": 357,
+    "cpu_avg": 38.4,
+    "memory_avg": 48.9,
+    "network_mbps": 38.3,
+    "carbon_rate": 0.1074,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777822603090,
+    "rps": 1018,
+    "cpu_avg": 55.4,
+    "memory_avg": 57.3,
+    "network_mbps": 105.4,
+    "carbon_rate": 0.1549,
+    "latency_p99": 159
+  },
+  {
+    "ts": 1777823203090,
+    "rps": 981,
+    "cpu_avg": 59.3,
+    "memory_avg": 58.7,
+    "network_mbps": 102.9,
+    "carbon_rate": 0.1658,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777823803090,
+    "rps": 972,
+    "cpu_avg": 60.2,
+    "memory_avg": 59.3,
+    "network_mbps": 97.5,
+    "carbon_rate": 0.1684,
+    "latency_p99": 171
+  },
+  {
+    "ts": 1777824403090,
+    "rps": 971,
+    "cpu_avg": 58.3,
+    "memory_avg": 55.2,
+    "network_mbps": 100.2,
+    "carbon_rate": 0.1631,
+    "latency_p99": 160
+  },
+  {
+    "ts": 1777825003090,
+    "rps": 1011,
+    "cpu_avg": 55.3,
+    "memory_avg": 60.5,
+    "network_mbps": 102.8,
+    "carbon_rate": 0.1547,
+    "latency_p99": 161
+  },
+  {
+    "ts": 1777825603090,
+    "rps": 988,
+    "cpu_avg": 52.6,
+    "memory_avg": 58.5,
+    "network_mbps": 99.8,
+    "carbon_rate": 0.1472,
+    "latency_p99": 156
+  },
+  {
+    "ts": 1777826203090,
+    "rps": 227,
+    "cpu_avg": 32.4,
+    "memory_avg": 48,
+    "network_mbps": 26.3,
+    "carbon_rate": 0.0905,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777826803090,
+    "rps": 226,
+    "cpu_avg": 32.7,
+    "memory_avg": 45.2,
+    "network_mbps": 26.8,
+    "carbon_rate": 0.0913,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777827403090,
+    "rps": 249,
+    "cpu_avg": 35.9,
+    "memory_avg": 48,
+    "network_mbps": 28.2,
+    "carbon_rate": 0.1005,
+    "latency_p99": 133
+  },
+  {
+    "ts": 1777828003090,
+    "rps": 248,
+    "cpu_avg": 37.7,
+    "memory_avg": 46.2,
+    "network_mbps": 29.1,
+    "carbon_rate": 0.1053,
+    "latency_p99": 129
+  },
+  {
+    "ts": 1777828603090,
+    "rps": 246,
+    "cpu_avg": 35.7,
+    "memory_avg": 41.8,
+    "network_mbps": 27.4,
+    "carbon_rate": 0.0999,
+    "latency_p99": 124
+  },
+  {
+    "ts": 1777829203090,
+    "rps": 267,
+    "cpu_avg": 40.3,
+    "memory_avg": 42.7,
+    "network_mbps": 28.3,
+    "carbon_rate": 0.1127,
+    "latency_p99": 130
+  },
+  {
+    "ts": 1777829803090,
+    "rps": 198,
+    "cpu_avg": 31.5,
+    "memory_avg": 40.2,
+    "network_mbps": 22.5,
+    "carbon_rate": 0.0882,
+    "latency_p99": 121
+  },
+  {
+    "ts": 1777830403090,
+    "rps": 249,
+    "cpu_avg": 41.4,
+    "memory_avg": 46.3,
+    "network_mbps": 25,
+    "carbon_rate": 0.1157,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777831003090,
+    "rps": 227,
+    "cpu_avg": 31.9,
+    "memory_avg": 45.7,
+    "network_mbps": 26.2,
+    "carbon_rate": 0.0892,
+    "latency_p99": 126
+  },
+  {
+    "ts": 1777831603090,
+    "rps": 180,
+    "cpu_avg": 30.6,
+    "memory_avg": 41.3,
+    "network_mbps": 22.8,
+    "carbon_rate": 0.0856,
+    "latency_p99": 128
+  },
+  {
+    "ts": 1777832203090,
+    "rps": 209,
+    "cpu_avg": 32.9,
+    "memory_avg": 40.2,
+    "network_mbps": 21.5,
+    "carbon_rate": 0.0919,
+    "latency_p99": 120
+  },
+  {
+    "ts": 1777832803090,
+    "rps": 214,
+    "cpu_avg": 36.9,
+    "memory_avg": 47.1,
+    "network_mbps": 24.6,
+    "carbon_rate": 0.1032,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777833403090,
+    "rps": 187,
+    "cpu_avg": 36.9,
+    "memory_avg": 42.2,
+    "network_mbps": 19.1,
+    "carbon_rate": 0.1033,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777834003090,
+    "rps": 217,
+    "cpu_avg": 38.3,
+    "memory_avg": 43.9,
+    "network_mbps": 22.7,
+    "carbon_rate": 0.1071,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777834603090,
+    "rps": 231,
+    "cpu_avg": 37.4,
+    "memory_avg": 45.6,
+    "network_mbps": 27.8,
+    "carbon_rate": 0.1046,
+    "latency_p99": 131
+  },
+  {
+    "ts": 1777835203090,
+    "rps": 201,
+    "cpu_avg": 37.3,
+    "memory_avg": 45.7,
+    "network_mbps": 23.5,
+    "carbon_rate": 0.1043,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777835803090,
+    "rps": 235,
+    "cpu_avg": 35.4,
+    "memory_avg": 40.7,
+    "network_mbps": 27.1,
+    "carbon_rate": 0.0991,
+    "latency_p99": 130
+  },
+  {
+    "ts": 1777836403090,
+    "rps": 203,
+    "cpu_avg": 33,
+    "memory_avg": 47.1,
+    "network_mbps": 21.4,
+    "carbon_rate": 0.0922,
+    "latency_p99": 128
+  },
+  {
+    "ts": 1777837003090,
+    "rps": 198,
+    "cpu_avg": 31.4,
+    "memory_avg": 43.3,
+    "network_mbps": 23.8,
+    "carbon_rate": 0.0879,
+    "latency_p99": 125
+  },
+  {
+    "ts": 1777837603090,
+    "rps": 232,
+    "cpu_avg": 36,
+    "memory_avg": 40.2,
+    "network_mbps": 23.3,
+    "carbon_rate": 0.1005,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777838203090,
+    "rps": 187,
+    "cpu_avg": 30.8,
+    "memory_avg": 39.5,
+    "network_mbps": 19.6,
+    "carbon_rate": 0.0861,
+    "latency_p99": 119
+  },
+  {
+    "ts": 1777838803090,
+    "rps": 174,
+    "cpu_avg": 33.6,
+    "memory_avg": 42.8,
+    "network_mbps": 21.9,
+    "carbon_rate": 0.0941,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777839403090,
+    "rps": 200,
+    "cpu_avg": 35.6,
+    "memory_avg": 40.9,
+    "network_mbps": 24.8,
+    "carbon_rate": 0.0995,
+    "latency_p99": 132
+  },
+  {
+    "ts": 1777840003090,
+    "rps": 208,
+    "cpu_avg": 33.2,
+    "memory_avg": 44.2,
+    "network_mbps": 20.9,
+    "carbon_rate": 0.0928,
+    "latency_p99": 129
+  },
+  {
+    "ts": 1777840603090,
+    "rps": 256,
+    "cpu_avg": 36.9,
+    "memory_avg": 41.3,
+    "network_mbps": 27,
+    "carbon_rate": 0.103,
+    "latency_p99": 135
+  },
+  {
+    "ts": 1777841203090,
+    "rps": 257,
+    "cpu_avg": 39.3,
+    "memory_avg": 42.1,
+    "network_mbps": 30,
+    "carbon_rate": 0.1098,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777841803090,
+    "rps": 252,
+    "cpu_avg": 37.7,
+    "memory_avg": 41.6,
+    "network_mbps": 27.2,
+    "carbon_rate": 0.1055,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777842403090,
+    "rps": 206,
+    "cpu_avg": 34.7,
+    "memory_avg": 47.7,
+    "network_mbps": 21.1,
+    "carbon_rate": 0.0971,
+    "latency_p99": 133
+  },
+  {
+    "ts": 1777843003090,
+    "rps": 264,
+    "cpu_avg": 36,
+    "memory_avg": 44.1,
+    "network_mbps": 28.4,
+    "carbon_rate": 0.1006,
+    "latency_p99": 125
+  },
+  {
+    "ts": 1777843603090,
+    "rps": 215,
+    "cpu_avg": 34.7,
+    "memory_avg": 45.2,
+    "network_mbps": 23.5,
+    "carbon_rate": 0.097,
+    "latency_p99": 133
+  },
+  {
+    "ts": 1777844203090,
+    "rps": 323,
+    "cpu_avg": 43.5,
+    "memory_avg": 46,
+    "network_mbps": 33.9,
+    "carbon_rate": 0.1218,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777844803090,
+    "rps": 255,
+    "cpu_avg": 40,
+    "memory_avg": 43.3,
+    "network_mbps": 26.9,
+    "carbon_rate": 0.1119,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777845403090,
+    "rps": 282,
+    "cpu_avg": 38.4,
+    "memory_avg": 48.5,
+    "network_mbps": 31.9,
+    "carbon_rate": 0.1075,
+    "latency_p99": 135
+  },
+  {
+    "ts": 1777846003090,
+    "rps": 315,
+    "cpu_avg": 35.7,
+    "memory_avg": 48.9,
+    "network_mbps": 32.8,
+    "carbon_rate": 0.0998,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777846603090,
+    "rps": 309,
+    "cpu_avg": 40.7,
+    "memory_avg": 44.1,
+    "network_mbps": 33,
+    "carbon_rate": 0.1139,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777847203090,
+    "rps": 326,
+    "cpu_avg": 34.5,
+    "memory_avg": 46.2,
+    "network_mbps": 36.2,
+    "carbon_rate": 0.0964,
+    "latency_p99": 131
+  },
+  {
+    "ts": 1777847803090,
+    "rps": 351,
+    "cpu_avg": 41.2,
+    "memory_avg": 46.5,
+    "network_mbps": 36.3,
+    "carbon_rate": 0.1151,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777848403090,
+    "rps": 350,
+    "cpu_avg": 42.3,
+    "memory_avg": 44.4,
+    "network_mbps": 38.8,
+    "carbon_rate": 0.1182,
+    "latency_p99": 132
+  },
+  {
+    "ts": 1777849003090,
+    "rps": 372,
+    "cpu_avg": 42.7,
+    "memory_avg": 44,
+    "network_mbps": 40.2,
+    "carbon_rate": 0.1195,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777849603090,
+    "rps": 347,
+    "cpu_avg": 42,
+    "memory_avg": 44.7,
+    "network_mbps": 36,
+    "carbon_rate": 0.1174,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777850203090,
+    "rps": 324,
+    "cpu_avg": 41.5,
+    "memory_avg": 48.8,
+    "network_mbps": 37,
+    "carbon_rate": 0.116,
+    "latency_p99": 144
+  },
+  {
+    "ts": 1777850803090,
+    "rps": 326,
+    "cpu_avg": 41.5,
+    "memory_avg": 43.2,
+    "network_mbps": 36.6,
+    "carbon_rate": 0.116,
+    "latency_p99": 131
+  },
+  {
+    "ts": 1777851403090,
+    "rps": 459,
+    "cpu_avg": 41.4,
+    "memory_avg": 49.1,
+    "network_mbps": 48.3,
+    "carbon_rate": 0.1157,
+    "latency_p99": 145
+  },
+  {
+    "ts": 1777852003090,
+    "rps": 384,
+    "cpu_avg": 44.4,
+    "memory_avg": 44,
+    "network_mbps": 40.3,
+    "carbon_rate": 0.1242,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777852603090,
+    "rps": 398,
+    "cpu_avg": 40.2,
+    "memory_avg": 44.8,
+    "network_mbps": 43.6,
+    "carbon_rate": 0.1125,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777853203090,
+    "rps": 455,
+    "cpu_avg": 41.9,
+    "memory_avg": 46,
+    "network_mbps": 47.3,
+    "carbon_rate": 0.117,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777853803090,
+    "rps": 410,
+    "cpu_avg": 42,
+    "memory_avg": 51.3,
+    "network_mbps": 45.3,
+    "carbon_rate": 0.1175,
+    "latency_p99": 145
+  },
+  {
+    "ts": 1777854403090,
+    "rps": 397,
+    "cpu_avg": 43.6,
+    "memory_avg": 47.2,
+    "network_mbps": 41.4,
+    "carbon_rate": 0.122,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777855003090,
+    "rps": 462,
+    "cpu_avg": 42,
+    "memory_avg": 47.6,
+    "network_mbps": 49.5,
+    "carbon_rate": 0.1174,
+    "latency_p99": 135
+  },
+  {
+    "ts": 1777855603090,
+    "rps": 481,
+    "cpu_avg": 40.6,
+    "memory_avg": 50.7,
+    "network_mbps": 51.6,
+    "carbon_rate": 0.1135,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777856203090,
+    "rps": 527,
+    "cpu_avg": 42.7,
+    "memory_avg": 47.8,
+    "network_mbps": 57.5,
+    "carbon_rate": 0.1195,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777856803090,
+    "rps": 489,
+    "cpu_avg": 47.9,
+    "memory_avg": 47.8,
+    "network_mbps": 49.4,
+    "carbon_rate": 0.134,
+    "latency_p99": 148
+  },
+  {
+    "ts": 1777857403090,
+    "rps": 495,
+    "cpu_avg": 45.5,
+    "memory_avg": 48,
+    "network_mbps": 54.3,
+    "carbon_rate": 0.1271,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777858003090,
+    "rps": 485,
+    "cpu_avg": 41.9,
+    "memory_avg": 47.4,
+    "network_mbps": 49.3,
+    "carbon_rate": 0.1173,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777858603090,
+    "rps": 563,
+    "cpu_avg": 43.1,
+    "memory_avg": 46.7,
+    "network_mbps": 58,
+    "carbon_rate": 0.1204,
+    "latency_p99": 135
+  },
+  {
+    "ts": 1777859203090,
+    "rps": 592,
+    "cpu_avg": 50.9,
+    "memory_avg": 50.7,
+    "network_mbps": 62.3,
+    "carbon_rate": 0.1422,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777859803090,
+    "rps": 559,
+    "cpu_avg": 47.9,
+    "memory_avg": 46.6,
+    "network_mbps": 57.7,
+    "carbon_rate": 0.1338,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777860403090,
+    "rps": 545,
+    "cpu_avg": 42.6,
+    "memory_avg": 49.9,
+    "network_mbps": 59.1,
+    "carbon_rate": 0.1192,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777861003090,
+    "rps": 547,
+    "cpu_avg": 44.7,
+    "memory_avg": 51,
+    "network_mbps": 57.3,
+    "carbon_rate": 0.1251,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777861603090,
+    "rps": 547,
+    "cpu_avg": 44.6,
+    "memory_avg": 46.8,
+    "network_mbps": 56.6,
+    "carbon_rate": 0.1246,
+    "latency_p99": 145
+  },
+  {
+    "ts": 1777862203090,
+    "rps": 623,
+    "cpu_avg": 49.1,
+    "memory_avg": 54.5,
+    "network_mbps": 64,
+    "carbon_rate": 0.1373,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777862803090,
+    "rps": 638,
+    "cpu_avg": 44.8,
+    "memory_avg": 52.3,
+    "network_mbps": 66.1,
+    "carbon_rate": 0.1253,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777863403090,
+    "rps": 622,
+    "cpu_avg": 43,
+    "memory_avg": 54.5,
+    "network_mbps": 63.3,
+    "carbon_rate": 0.1203,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777864003090,
+    "rps": 633,
+    "cpu_avg": 52.1,
+    "memory_avg": 52.2,
+    "network_mbps": 67.2,
+    "carbon_rate": 0.1457,
+    "latency_p99": 160
+  },
+  {
+    "ts": 1777864603090,
+    "rps": 627,
+    "cpu_avg": 44.1,
+    "memory_avg": 51.1,
+    "network_mbps": 66.9,
+    "carbon_rate": 0.1232,
+    "latency_p99": 145
+  },
+  {
+    "ts": 1777865203090,
+    "rps": 627,
+    "cpu_avg": 50.9,
+    "memory_avg": 50.8,
+    "network_mbps": 64.5,
+    "carbon_rate": 0.1422,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777865803090,
+    "rps": 701,
+    "cpu_avg": 54,
+    "memory_avg": 56,
+    "network_mbps": 71.5,
+    "carbon_rate": 0.151,
+    "latency_p99": 160
+  },
+  {
+    "ts": 1777866403090,
+    "rps": 686,
+    "cpu_avg": 50.2,
+    "memory_avg": 51.8,
+    "network_mbps": 72.6,
+    "carbon_rate": 0.1402,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777867003090,
+    "rps": 721,
+    "cpu_avg": 45.2,
+    "memory_avg": 49.3,
+    "network_mbps": 75.9,
+    "carbon_rate": 0.1265,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777867603090,
+    "rps": 680,
+    "cpu_avg": 53.3,
+    "memory_avg": 56.3,
+    "network_mbps": 70.5,
+    "carbon_rate": 0.149,
+    "latency_p99": 158
+  },
+  {
+    "ts": 1777868203090,
+    "rps": 720,
+    "cpu_avg": 45.2,
+    "memory_avg": 52.5,
+    "network_mbps": 76.4,
+    "carbon_rate": 0.1263,
+    "latency_p99": 135
+  },
+  {
+    "ts": 1777868803090,
+    "rps": 675,
+    "cpu_avg": 46.7,
+    "memory_avg": 56.2,
+    "network_mbps": 68.6,
+    "carbon_rate": 0.1304,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777869403090,
+    "rps": 1076,
+    "cpu_avg": 59.8,
+    "memory_avg": 60.4,
+    "network_mbps": 108.3,
+    "carbon_rate": 0.1671,
+    "latency_p99": 168
+  },
+  {
+    "ts": 1777870003090,
+    "rps": 1091,
+    "cpu_avg": 57.6,
+    "memory_avg": 58.3,
+    "network_mbps": 109.3,
+    "carbon_rate": 0.1609,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777870603090,
+    "rps": 1049,
+    "cpu_avg": 58.4,
+    "memory_avg": 62.5,
+    "network_mbps": 109,
+    "carbon_rate": 0.1634,
+    "latency_p99": 166
+  },
+  {
+    "ts": 1777871203090,
+    "rps": 1057,
+    "cpu_avg": 59.7,
+    "memory_avg": 56,
+    "network_mbps": 107.2,
+    "carbon_rate": 0.167,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777871803090,
+    "rps": 1053,
+    "cpu_avg": 58.3,
+    "memory_avg": 55.4,
+    "network_mbps": 108.9,
+    "carbon_rate": 0.1629,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777872403090,
+    "rps": 1054,
+    "cpu_avg": 58,
+    "memory_avg": 57.1,
+    "network_mbps": 107.3,
+    "carbon_rate": 0.1622,
+    "latency_p99": 169
+  },
+  {
+    "ts": 1777873003090,
+    "rps": 826,
+    "cpu_avg": 54.8,
+    "memory_avg": 57.4,
+    "network_mbps": 83.7,
+    "carbon_rate": 0.1532,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777873603090,
+    "rps": 818,
+    "cpu_avg": 48.4,
+    "memory_avg": 51.4,
+    "network_mbps": 82.5,
+    "carbon_rate": 0.1352,
+    "latency_p99": 154
+  },
+  {
+    "ts": 1777874203090,
+    "rps": 758,
+    "cpu_avg": 52,
+    "memory_avg": 52.8,
+    "network_mbps": 76.2,
+    "carbon_rate": 0.1454,
+    "latency_p99": 159
+  },
+  {
+    "ts": 1777874803090,
+    "rps": 803,
+    "cpu_avg": 55.9,
+    "memory_avg": 52.2,
+    "network_mbps": 84.6,
+    "carbon_rate": 0.1562,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777875403090,
+    "rps": 817,
+    "cpu_avg": 52.9,
+    "memory_avg": 57.6,
+    "network_mbps": 82,
+    "carbon_rate": 0.1479,
+    "latency_p99": 160
+  },
+  {
+    "ts": 1777876003090,
+    "rps": 810,
+    "cpu_avg": 56.4,
+    "memory_avg": 50.9,
+    "network_mbps": 84.5,
+    "carbon_rate": 0.1576,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777876603090,
+    "rps": 804,
+    "cpu_avg": 47.8,
+    "memory_avg": 55.5,
+    "network_mbps": 81.4,
+    "carbon_rate": 0.1338,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777877203090,
+    "rps": 833,
+    "cpu_avg": 57.4,
+    "memory_avg": 56,
+    "network_mbps": 83.9,
+    "carbon_rate": 0.1605,
+    "latency_p99": 165
+  },
+  {
+    "ts": 1777877803090,
+    "rps": 774,
+    "cpu_avg": 49.6,
+    "memory_avg": 52.2,
+    "network_mbps": 79.2,
+    "carbon_rate": 0.1388,
+    "latency_p99": 159
+  },
+  {
+    "ts": 1777878403090,
+    "rps": 792,
+    "cpu_avg": 54.3,
+    "memory_avg": 56.1,
+    "network_mbps": 83.9,
+    "carbon_rate": 0.1519,
+    "latency_p99": 156
+  },
+  {
+    "ts": 1777879003090,
+    "rps": 775,
+    "cpu_avg": 55.4,
+    "memory_avg": 50.2,
+    "network_mbps": 79.2,
+    "carbon_rate": 0.1549,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777879603090,
+    "rps": 814,
+    "cpu_avg": 48.7,
+    "memory_avg": 55.2,
+    "network_mbps": 82.9,
+    "carbon_rate": 0.1363,
+    "latency_p99": 148
+  },
+  {
+    "ts": 1777880203090,
+    "rps": 793,
+    "cpu_avg": 47.4,
+    "memory_avg": 51.7,
+    "network_mbps": 81.7,
+    "carbon_rate": 0.1324,
+    "latency_p99": 154
+  },
+  {
+    "ts": 1777880803090,
+    "rps": 821,
+    "cpu_avg": 50.1,
+    "memory_avg": 51,
+    "network_mbps": 83.3,
+    "carbon_rate": 0.1401,
+    "latency_p99": 156
+  },
+  {
+    "ts": 1777881403090,
+    "rps": 752,
+    "cpu_avg": 51.8,
+    "memory_avg": 52.3,
+    "network_mbps": 76.5,
+    "carbon_rate": 0.1449,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777882003090,
+    "rps": 790,
+    "cpu_avg": 49.1,
+    "memory_avg": 54.6,
+    "network_mbps": 82.6,
+    "carbon_rate": 0.1373,
+    "latency_p99": 157
+  },
+  {
+    "ts": 1777882603090,
+    "rps": 773,
+    "cpu_avg": 51.2,
+    "memory_avg": 57.4,
+    "network_mbps": 79.7,
+    "carbon_rate": 0.1431,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777883203090,
+    "rps": 761,
+    "cpu_avg": 48.9,
+    "memory_avg": 54.4,
+    "network_mbps": 78.4,
+    "carbon_rate": 0.1367,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777883803090,
+    "rps": 795,
+    "cpu_avg": 47.3,
+    "memory_avg": 54.4,
+    "network_mbps": 82.1,
+    "carbon_rate": 0.1323,
+    "latency_p99": 154
+  },
+  {
+    "ts": 1777884403090,
+    "rps": 740,
+    "cpu_avg": 46.7,
+    "memory_avg": 53.6,
+    "network_mbps": 74.9,
+    "carbon_rate": 0.1305,
+    "latency_p99": 145
+  },
+  {
+    "ts": 1777885003090,
+    "rps": 722,
+    "cpu_avg": 48.7,
+    "memory_avg": 55,
+    "network_mbps": 73.8,
+    "carbon_rate": 0.1361,
+    "latency_p99": 157
+  },
+  {
+    "ts": 1777885603090,
+    "rps": 776,
+    "cpu_avg": 55.6,
+    "memory_avg": 51.8,
+    "network_mbps": 81.5,
+    "carbon_rate": 0.1556,
+    "latency_p99": 162
+  },
+  {
+    "ts": 1777886203090,
+    "rps": 782,
+    "cpu_avg": 52.5,
+    "memory_avg": 54.4,
+    "network_mbps": 78.3,
+    "carbon_rate": 0.1468,
+    "latency_p99": 163
+  },
+  {
+    "ts": 1777886803090,
+    "rps": 732,
+    "cpu_avg": 50.4,
+    "memory_avg": 56.2,
+    "network_mbps": 75.3,
+    "carbon_rate": 0.1408,
+    "latency_p99": 144
+  },
+  {
+    "ts": 1777887403090,
+    "rps": 748,
+    "cpu_avg": 47.5,
+    "memory_avg": 52.9,
+    "network_mbps": 79.8,
+    "carbon_rate": 0.1329,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777888003090,
+    "rps": 719,
+    "cpu_avg": 49.8,
+    "memory_avg": 53,
+    "network_mbps": 72.6,
+    "carbon_rate": 0.1393,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777888603090,
+    "rps": 712,
+    "cpu_avg": 49,
+    "memory_avg": 50.2,
+    "network_mbps": 74.8,
+    "carbon_rate": 0.137,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777889203090,
+    "rps": 729,
+    "cpu_avg": 50.9,
+    "memory_avg": 49.8,
+    "network_mbps": 76,
+    "carbon_rate": 0.1423,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777889803090,
+    "rps": 732,
+    "cpu_avg": 46.3,
+    "memory_avg": 53.8,
+    "network_mbps": 76.1,
+    "carbon_rate": 0.1296,
+    "latency_p99": 145
+  },
+  {
+    "ts": 1777890403090,
+    "rps": 746,
+    "cpu_avg": 54.6,
+    "memory_avg": 55.2,
+    "network_mbps": 77.4,
+    "carbon_rate": 0.1526,
+    "latency_p99": 162
+  },
+  {
+    "ts": 1777891003090,
+    "rps": 651,
+    "cpu_avg": 43.4,
+    "memory_avg": 53.1,
+    "network_mbps": 65.6,
+    "carbon_rate": 0.1213,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777891603090,
+    "rps": 627,
+    "cpu_avg": 46.1,
+    "memory_avg": 48.8,
+    "network_mbps": 67.4,
+    "carbon_rate": 0.1288,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777892203090,
+    "rps": 642,
+    "cpu_avg": 51.9,
+    "memory_avg": 50.7,
+    "network_mbps": 68.8,
+    "carbon_rate": 0.1452,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777892803090,
+    "rps": 628,
+    "cpu_avg": 49.3,
+    "memory_avg": 54.1,
+    "network_mbps": 66,
+    "carbon_rate": 0.1378,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777893403090,
+    "rps": 682,
+    "cpu_avg": 49.7,
+    "memory_avg": 54.7,
+    "network_mbps": 70.1,
+    "carbon_rate": 0.1391,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777894003090,
+    "rps": 643,
+    "cpu_avg": 48.8,
+    "memory_avg": 51.6,
+    "network_mbps": 67.5,
+    "carbon_rate": 0.1363,
+    "latency_p99": 158
+  },
+  {
+    "ts": 1777894603090,
+    "rps": 593,
+    "cpu_avg": 48.9,
+    "memory_avg": 52.5,
+    "network_mbps": 63.2,
+    "carbon_rate": 0.1366,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777895203090,
+    "rps": 544,
+    "cpu_avg": 43.6,
+    "memory_avg": 47.6,
+    "network_mbps": 58.9,
+    "carbon_rate": 0.122,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777895803090,
+    "rps": 616,
+    "cpu_avg": 48.7,
+    "memory_avg": 49.6,
+    "network_mbps": 64.8,
+    "carbon_rate": 0.1361,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777896403090,
+    "rps": 617,
+    "cpu_avg": 48.4,
+    "memory_avg": 48,
+    "network_mbps": 62.5,
+    "carbon_rate": 0.1353,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777897003090,
+    "rps": 582,
+    "cpu_avg": 41,
+    "memory_avg": 49.1,
+    "network_mbps": 63,
+    "carbon_rate": 0.1148,
+    "latency_p99": 131
+  },
+  {
+    "ts": 1777897603090,
+    "rps": 584,
+    "cpu_avg": 44.2,
+    "memory_avg": 49.5,
+    "network_mbps": 61,
+    "carbon_rate": 0.1236,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777898203090,
+    "rps": 484,
+    "cpu_avg": 47.7,
+    "memory_avg": 45.4,
+    "network_mbps": 51,
+    "carbon_rate": 0.1335,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777898803090,
+    "rps": 472,
+    "cpu_avg": 47.4,
+    "memory_avg": 48.3,
+    "network_mbps": 52.2,
+    "carbon_rate": 0.1325,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777899403090,
+    "rps": 469,
+    "cpu_avg": 44.4,
+    "memory_avg": 50.4,
+    "network_mbps": 50.8,
+    "carbon_rate": 0.1241,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777900003090,
+    "rps": 528,
+    "cpu_avg": 41.7,
+    "memory_avg": 46.6,
+    "network_mbps": 53.5,
+    "carbon_rate": 0.1165,
+    "latency_p99": 132
+  },
+  {
+    "ts": 1777900603090,
+    "rps": 498,
+    "cpu_avg": 41,
+    "memory_avg": 48.6,
+    "network_mbps": 52.5,
+    "carbon_rate": 0.1145,
+    "latency_p99": 130
+  },
+  {
+    "ts": 1777901203090,
+    "rps": 527,
+    "cpu_avg": 44.1,
+    "memory_avg": 51.3,
+    "network_mbps": 53.2,
+    "carbon_rate": 0.1233,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777901803090,
+    "rps": 396,
+    "cpu_avg": 43.4,
+    "memory_avg": 50.2,
+    "network_mbps": 41.2,
+    "carbon_rate": 0.1213,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777902403090,
+    "rps": 435,
+    "cpu_avg": 46.2,
+    "memory_avg": 46.7,
+    "network_mbps": 48.1,
+    "carbon_rate": 0.1291,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777903003090,
+    "rps": 439,
+    "cpu_avg": 44.2,
+    "memory_avg": 46.9,
+    "network_mbps": 47.4,
+    "carbon_rate": 0.1236,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777903603090,
+    "rps": 423,
+    "cpu_avg": 41.6,
+    "memory_avg": 51.6,
+    "network_mbps": 46.6,
+    "carbon_rate": 0.1162,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777904203090,
+    "rps": 456,
+    "cpu_avg": 41,
+    "memory_avg": 47.3,
+    "network_mbps": 46.2,
+    "carbon_rate": 0.1147,
+    "latency_p99": 135
+  },
+  {
+    "ts": 1777904803090,
+    "rps": 394,
+    "cpu_avg": 42.5,
+    "memory_avg": 47.3,
+    "network_mbps": 40.2,
+    "carbon_rate": 0.1189,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777905403090,
+    "rps": 330,
+    "cpu_avg": 36.6,
+    "memory_avg": 42.4,
+    "network_mbps": 36.6,
+    "carbon_rate": 0.1024,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777906003090,
+    "rps": 380,
+    "cpu_avg": 42.4,
+    "memory_avg": 46.7,
+    "network_mbps": 38.7,
+    "carbon_rate": 0.1184,
+    "latency_p99": 133
+  },
+  {
+    "ts": 1777906603090,
+    "rps": 319,
+    "cpu_avg": 40.9,
+    "memory_avg": 45.2,
+    "network_mbps": 35.5,
+    "carbon_rate": 0.1142,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777907203090,
+    "rps": 389,
+    "cpu_avg": 36.8,
+    "memory_avg": 50.3,
+    "network_mbps": 42.4,
+    "carbon_rate": 0.1029,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777907803090,
+    "rps": 337,
+    "cpu_avg": 42.8,
+    "memory_avg": 45.9,
+    "network_mbps": 35.1,
+    "carbon_rate": 0.1196,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777908403090,
+    "rps": 333,
+    "cpu_avg": 43.3,
+    "memory_avg": 46.5,
+    "network_mbps": 35.1,
+    "carbon_rate": 0.121,
+    "latency_p99": 135
+  },
+  {
+    "ts": 1777909003090,
+    "rps": 1025,
+    "cpu_avg": 55.6,
+    "memory_avg": 61.6,
+    "network_mbps": 104.6,
+    "carbon_rate": 0.1554,
+    "latency_p99": 157
+  },
+  {
+    "ts": 1777909603090,
+    "rps": 977,
+    "cpu_avg": 59,
+    "memory_avg": 59.4,
+    "network_mbps": 101,
+    "carbon_rate": 0.1648,
+    "latency_p99": 161
+  },
+  {
+    "ts": 1777910203090,
+    "rps": 963,
+    "cpu_avg": 58.7,
+    "memory_avg": 56.7,
+    "network_mbps": 98.8,
+    "carbon_rate": 0.1641,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777910803090,
+    "rps": 981,
+    "cpu_avg": 60.6,
+    "memory_avg": 54.4,
+    "network_mbps": 100.8,
+    "carbon_rate": 0.1695,
+    "latency_p99": 162
+  },
+  {
+    "ts": 1777911403090,
+    "rps": 983,
+    "cpu_avg": 57.4,
+    "memory_avg": 57.2,
+    "network_mbps": 99.7,
+    "carbon_rate": 0.1604,
+    "latency_p99": 154
+  },
+  {
+    "ts": 1777912003090,
+    "rps": 1010,
+    "cpu_avg": 61.3,
+    "memory_avg": 61.1,
+    "network_mbps": 102,
+    "carbon_rate": 0.1715,
+    "latency_p99": 167
+  },
+  {
+    "ts": 1777912603090,
+    "rps": 217,
+    "cpu_avg": 36,
+    "memory_avg": 43.9,
+    "network_mbps": 24.5,
+    "carbon_rate": 0.1007,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777913203090,
+    "rps": 232,
+    "cpu_avg": 33.2,
+    "memory_avg": 47.1,
+    "network_mbps": 23.2,
+    "carbon_rate": 0.0928,
+    "latency_p99": 122
+  },
+  {
+    "ts": 1777913803090,
+    "rps": 271,
+    "cpu_avg": 39.4,
+    "memory_avg": 42.3,
+    "network_mbps": 29,
+    "carbon_rate": 0.1102,
+    "latency_p99": 131
+  },
+  {
+    "ts": 1777914403090,
+    "rps": 250,
+    "cpu_avg": 34.6,
+    "memory_avg": 47.9,
+    "network_mbps": 29.3,
+    "carbon_rate": 0.0967,
+    "latency_p99": 123
+  },
+  {
+    "ts": 1777915003090,
+    "rps": 205,
+    "cpu_avg": 34.1,
+    "memory_avg": 42.6,
+    "network_mbps": 22.7,
+    "carbon_rate": 0.0954,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777915603090,
+    "rps": 264,
+    "cpu_avg": 33.3,
+    "memory_avg": 44.5,
+    "network_mbps": 27.2,
+    "carbon_rate": 0.093,
+    "latency_p99": 123
+  },
+  {
+    "ts": 1777916203090,
+    "rps": 182,
+    "cpu_avg": 33.5,
+    "memory_avg": 41.9,
+    "network_mbps": 22.1,
+    "carbon_rate": 0.0937,
+    "latency_p99": 129
+  },
+  {
+    "ts": 1777916803090,
+    "rps": 179,
+    "cpu_avg": 34.7,
+    "memory_avg": 40.7,
+    "network_mbps": 21.1,
+    "carbon_rate": 0.0971,
+    "latency_p99": 125
+  },
+  {
+    "ts": 1777917403090,
+    "rps": 246,
+    "cpu_avg": 41.2,
+    "memory_avg": 46.8,
+    "network_mbps": 28.4,
+    "carbon_rate": 0.1152,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777918003090,
+    "rps": 178,
+    "cpu_avg": 36.4,
+    "memory_avg": 44.4,
+    "network_mbps": 19.2,
+    "carbon_rate": 0.1018,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777918603090,
+    "rps": 241,
+    "cpu_avg": 38,
+    "memory_avg": 43.1,
+    "network_mbps": 26.9,
+    "carbon_rate": 0.1064,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777919203090,
+    "rps": 223,
+    "cpu_avg": 37.6,
+    "memory_avg": 43.6,
+    "network_mbps": 26.2,
+    "carbon_rate": 0.1053,
+    "latency_p99": 128
+  },
+  {
+    "ts": 1777919803090,
+    "rps": 163,
+    "cpu_avg": 34.6,
+    "memory_avg": 46.7,
+    "network_mbps": 18.8,
+    "carbon_rate": 0.0967,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777920403090,
+    "rps": 224,
+    "cpu_avg": 36.4,
+    "memory_avg": 43.7,
+    "network_mbps": 26.6,
+    "carbon_rate": 0.1016,
+    "latency_p99": 131
+  },
+  {
+    "ts": 1777921003090,
+    "rps": 187,
+    "cpu_avg": 33.1,
+    "memory_avg": 41.3,
+    "network_mbps": 19,
+    "carbon_rate": 0.0925,
+    "latency_p99": 120
+  },
+  {
+    "ts": 1777921603090,
+    "rps": 192,
+    "cpu_avg": 38,
+    "memory_avg": 43.8,
+    "network_mbps": 21.4,
+    "carbon_rate": 0.1062,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777922203090,
+    "rps": 167,
+    "cpu_avg": 38.7,
+    "memory_avg": 43.8,
+    "network_mbps": 17.5,
+    "carbon_rate": 0.1081,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777922803090,
+    "rps": 178,
+    "cpu_avg": 38,
+    "memory_avg": 40.9,
+    "network_mbps": 20.1,
+    "carbon_rate": 0.1062,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777923403090,
+    "rps": 178,
+    "cpu_avg": 36.2,
+    "memory_avg": 41.6,
+    "network_mbps": 20.2,
+    "carbon_rate": 0.1012,
+    "latency_p99": 124
+  },
+  {
+    "ts": 1777924003090,
+    "rps": 246,
+    "cpu_avg": 35.3,
+    "memory_avg": 44.1,
+    "network_mbps": 27.5,
+    "carbon_rate": 0.0987,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777924603090,
+    "rps": 197,
+    "cpu_avg": 36.2,
+    "memory_avg": 40.3,
+    "network_mbps": 20,
+    "carbon_rate": 0.1011,
+    "latency_p99": 127
+  },
+  {
+    "ts": 1777925203090,
+    "rps": 214,
+    "cpu_avg": 33.3,
+    "memory_avg": 43.6,
+    "network_mbps": 24.7,
+    "carbon_rate": 0.0932,
+    "latency_p99": 125
+  },
+  {
+    "ts": 1777925803090,
+    "rps": 210,
+    "cpu_avg": 37,
+    "memory_avg": 41.7,
+    "network_mbps": 24.5,
+    "carbon_rate": 0.1034,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777926403090,
+    "rps": 192,
+    "cpu_avg": 36.5,
+    "memory_avg": 44.5,
+    "network_mbps": 19.3,
+    "carbon_rate": 0.1021,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777927003090,
+    "rps": 212,
+    "cpu_avg": 33.9,
+    "memory_avg": 44.6,
+    "network_mbps": 23.2,
+    "carbon_rate": 0.0948,
+    "latency_p99": 127
+  },
+  {
+    "ts": 1777927603090,
+    "rps": 254,
+    "cpu_avg": 39.4,
+    "memory_avg": 43.4,
+    "network_mbps": 27.7,
+    "carbon_rate": 0.1102,
+    "latency_p99": 129
+  },
+  {
+    "ts": 1777928203090,
+    "rps": 265,
+    "cpu_avg": 37.8,
+    "memory_avg": 41.4,
+    "network_mbps": 27.2,
+    "carbon_rate": 0.1057,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777928803090,
+    "rps": 226,
+    "cpu_avg": 36.3,
+    "memory_avg": 44.5,
+    "network_mbps": 25.3,
+    "carbon_rate": 0.1015,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777929403090,
+    "rps": 241,
+    "cpu_avg": 39.2,
+    "memory_avg": 44.4,
+    "network_mbps": 27.5,
+    "carbon_rate": 0.1097,
+    "latency_p99": 128
+  },
+  {
+    "ts": 1777930003090,
+    "rps": 213,
+    "cpu_avg": 31.8,
+    "memory_avg": 45.6,
+    "network_mbps": 22.6,
+    "carbon_rate": 0.0889,
+    "latency_p99": 120
+  },
+  {
+    "ts": 1777930603090,
+    "rps": 327,
+    "cpu_avg": 34.4,
+    "memory_avg": 43.4,
+    "network_mbps": 33.7,
+    "carbon_rate": 0.0963,
+    "latency_p99": 123
+  },
+  {
+    "ts": 1777931203090,
+    "rps": 267,
+    "cpu_avg": 36.7,
+    "memory_avg": 41.6,
+    "network_mbps": 30.1,
+    "carbon_rate": 0.1026,
+    "latency_p99": 131
+  },
+  {
+    "ts": 1777931803090,
+    "rps": 267,
+    "cpu_avg": 39.3,
+    "memory_avg": 42.3,
+    "network_mbps": 27.7,
+    "carbon_rate": 0.1098,
+    "latency_p99": 130
+  },
+  {
+    "ts": 1777932403090,
+    "rps": 258,
+    "cpu_avg": 36.7,
+    "memory_avg": 42.2,
+    "network_mbps": 27.2,
+    "carbon_rate": 0.1026,
+    "latency_p99": 126
+  },
+  {
+    "ts": 1777933003090,
+    "rps": 274,
+    "cpu_avg": 37.5,
+    "memory_avg": 43.9,
+    "network_mbps": 27.8,
+    "carbon_rate": 0.1049,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777933603090,
+    "rps": 268,
+    "cpu_avg": 37.4,
+    "memory_avg": 46.5,
+    "network_mbps": 31.2,
+    "carbon_rate": 0.1045,
+    "latency_p99": 125
+  },
+  {
+    "ts": 1777934203090,
+    "rps": 358,
+    "cpu_avg": 37.4,
+    "memory_avg": 43,
+    "network_mbps": 39.2,
+    "carbon_rate": 0.1045,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777934803090,
+    "rps": 346,
+    "cpu_avg": 41.9,
+    "memory_avg": 48.1,
+    "network_mbps": 37.9,
+    "carbon_rate": 0.1172,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777935403090,
+    "rps": 319,
+    "cpu_avg": 34.4,
+    "memory_avg": 42.7,
+    "network_mbps": 32.3,
+    "carbon_rate": 0.0961,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777936003090,
+    "rps": 328,
+    "cpu_avg": 36.5,
+    "memory_avg": 47.2,
+    "network_mbps": 34.2,
+    "carbon_rate": 0.1019,
+    "latency_p99": 128
+  },
+  {
+    "ts": 1777936603090,
+    "rps": 340,
+    "cpu_avg": 41.6,
+    "memory_avg": 49,
+    "network_mbps": 36.1,
+    "carbon_rate": 0.1163,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777937203090,
+    "rps": 353,
+    "cpu_avg": 39.5,
+    "memory_avg": 48.1,
+    "network_mbps": 36.3,
+    "carbon_rate": 0.1106,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777937803090,
+    "rps": 443,
+    "cpu_avg": 39.4,
+    "memory_avg": 51.7,
+    "network_mbps": 49,
+    "carbon_rate": 0.1102,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777938403090,
+    "rps": 446,
+    "cpu_avg": 44,
+    "memory_avg": 51.6,
+    "network_mbps": 46.4,
+    "carbon_rate": 0.123,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777939003090,
+    "rps": 416,
+    "cpu_avg": 43.1,
+    "memory_avg": 51,
+    "network_mbps": 45.3,
+    "carbon_rate": 0.1204,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777939603090,
+    "rps": 395,
+    "cpu_avg": 42.4,
+    "memory_avg": 47.3,
+    "network_mbps": 42.6,
+    "carbon_rate": 0.1185,
+    "latency_p99": 132
+  },
+  {
+    "ts": 1777940203090,
+    "rps": 413,
+    "cpu_avg": 42.6,
+    "memory_avg": 51.1,
+    "network_mbps": 45.1,
+    "carbon_rate": 0.1191,
+    "latency_p99": 133
+  },
+  {
+    "ts": 1777940803090,
+    "rps": 387,
+    "cpu_avg": 45,
+    "memory_avg": 50.3,
+    "network_mbps": 40.6,
+    "carbon_rate": 0.1259,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777941403090,
+    "rps": 470,
+    "cpu_avg": 37.8,
+    "memory_avg": 49.3,
+    "network_mbps": 47.2,
+    "carbon_rate": 0.1058,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777942003090,
+    "rps": 515,
+    "cpu_avg": 47.8,
+    "memory_avg": 51.7,
+    "network_mbps": 54,
+    "carbon_rate": 0.1335,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777942603090,
+    "rps": 471,
+    "cpu_avg": 38.1,
+    "memory_avg": 48.1,
+    "network_mbps": 50.9,
+    "carbon_rate": 0.1065,
+    "latency_p99": 126
+  },
+  {
+    "ts": 1777943203090,
+    "rps": 526,
+    "cpu_avg": 42.3,
+    "memory_avg": 47.7,
+    "network_mbps": 57.3,
+    "carbon_rate": 0.1183,
+    "latency_p99": 144
+  },
+  {
+    "ts": 1777943803090,
+    "rps": 488,
+    "cpu_avg": 41.5,
+    "memory_avg": 51.7,
+    "network_mbps": 51.7,
+    "carbon_rate": 0.1161,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777944403090,
+    "rps": 479,
+    "cpu_avg": 45.5,
+    "memory_avg": 45.4,
+    "network_mbps": 49,
+    "carbon_rate": 0.1273,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777945003090,
+    "rps": 608,
+    "cpu_avg": 45.7,
+    "memory_avg": 53.1,
+    "network_mbps": 65.5,
+    "carbon_rate": 0.1278,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777945603090,
+    "rps": 552,
+    "cpu_avg": 47,
+    "memory_avg": 49.6,
+    "network_mbps": 59.6,
+    "carbon_rate": 0.1315,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777946203090,
+    "rps": 558,
+    "cpu_avg": 43.3,
+    "memory_avg": 51.5,
+    "network_mbps": 58.9,
+    "carbon_rate": 0.1211,
+    "latency_p99": 133
+  },
+  {
+    "ts": 1777946803090,
+    "rps": 568,
+    "cpu_avg": 44.3,
+    "memory_avg": 46.9,
+    "network_mbps": 59.2,
+    "carbon_rate": 0.1237,
+    "latency_p99": 134
+  },
+  {
+    "ts": 1777947403090,
+    "rps": 562,
+    "cpu_avg": 44.9,
+    "memory_avg": 48,
+    "network_mbps": 58.4,
+    "carbon_rate": 0.1257,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777948003090,
+    "rps": 553,
+    "cpu_avg": 41,
+    "memory_avg": 51.6,
+    "network_mbps": 56.2,
+    "carbon_rate": 0.1145,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777948603090,
+    "rps": 642,
+    "cpu_avg": 43.6,
+    "memory_avg": 48.7,
+    "network_mbps": 67.9,
+    "carbon_rate": 0.1219,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777949203090,
+    "rps": 641,
+    "cpu_avg": 44,
+    "memory_avg": 52.3,
+    "network_mbps": 66.2,
+    "carbon_rate": 0.1231,
+    "latency_p99": 135
+  },
+  {
+    "ts": 1777949803090,
+    "rps": 616,
+    "cpu_avg": 46.1,
+    "memory_avg": 55.2,
+    "network_mbps": 66.3,
+    "carbon_rate": 0.1289,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777950403090,
+    "rps": 671,
+    "cpu_avg": 51.6,
+    "memory_avg": 50.9,
+    "network_mbps": 69.3,
+    "carbon_rate": 0.1442,
+    "latency_p99": 144
+  },
+  {
+    "ts": 1777951003090,
+    "rps": 657,
+    "cpu_avg": 52.9,
+    "memory_avg": 51.6,
+    "network_mbps": 68,
+    "carbon_rate": 0.1478,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777951603090,
+    "rps": 666,
+    "cpu_avg": 48.1,
+    "memory_avg": 50,
+    "network_mbps": 67.4,
+    "carbon_rate": 0.1344,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777952203090,
+    "rps": 738,
+    "cpu_avg": 54.9,
+    "memory_avg": 49.9,
+    "network_mbps": 78.5,
+    "carbon_rate": 0.1536,
+    "latency_p99": 154
+  },
+  {
+    "ts": 1777952803090,
+    "rps": 674,
+    "cpu_avg": 47.5,
+    "memory_avg": 48.5,
+    "network_mbps": 68.7,
+    "carbon_rate": 0.1328,
+    "latency_p99": 148
+  },
+  {
+    "ts": 1777953403090,
+    "rps": 738,
+    "cpu_avg": 48.6,
+    "memory_avg": 56.5,
+    "network_mbps": 74.7,
+    "carbon_rate": 0.136,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777954003090,
+    "rps": 716,
+    "cpu_avg": 53.7,
+    "memory_avg": 51.7,
+    "network_mbps": 76,
+    "carbon_rate": 0.1502,
+    "latency_p99": 164
+  },
+  {
+    "ts": 1777954603090,
+    "rps": 713,
+    "cpu_avg": 54.4,
+    "memory_avg": 49.8,
+    "network_mbps": 72.5,
+    "carbon_rate": 0.1522,
+    "latency_p99": 153
+  },
+  {
+    "ts": 1777955203090,
+    "rps": 694,
+    "cpu_avg": 44.8,
+    "memory_avg": 51,
+    "network_mbps": 70.2,
+    "carbon_rate": 0.1253,
+    "latency_p99": 145
+  },
+  {
+    "ts": 1777955803090,
+    "rps": 1060,
+    "cpu_avg": 57.7,
+    "memory_avg": 57.2,
+    "network_mbps": 110.6,
+    "carbon_rate": 0.1613,
+    "latency_p99": 160
+  },
+  {
+    "ts": 1777956403090,
+    "rps": 1045,
+    "cpu_avg": 60.8,
+    "memory_avg": 62.8,
+    "network_mbps": 104.6,
+    "carbon_rate": 0.1701,
+    "latency_p99": 170
+  },
+  {
+    "ts": 1777957003090,
+    "rps": 1097,
+    "cpu_avg": 62.7,
+    "memory_avg": 63.8,
+    "network_mbps": 112.6,
+    "carbon_rate": 0.1752,
+    "latency_p99": 173
+  },
+  {
+    "ts": 1777957603090,
+    "rps": 1045,
+    "cpu_avg": 57.7,
+    "memory_avg": 61.1,
+    "network_mbps": 105.3,
+    "carbon_rate": 0.1613,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777958203090,
+    "rps": 1035,
+    "cpu_avg": 59.6,
+    "memory_avg": 55.3,
+    "network_mbps": 105.2,
+    "carbon_rate": 0.1666,
+    "latency_p99": 161
+  },
+  {
+    "ts": 1777958803090,
+    "rps": 1094,
+    "cpu_avg": 62.2,
+    "memory_avg": 56.1,
+    "network_mbps": 113.8,
+    "carbon_rate": 0.1738,
+    "latency_p99": 158
+  },
+  {
+    "ts": 1777959403090,
+    "rps": 805,
+    "cpu_avg": 47.2,
+    "memory_avg": 55,
+    "network_mbps": 84.8,
+    "carbon_rate": 0.1319,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777960003090,
+    "rps": 816,
+    "cpu_avg": 50.9,
+    "memory_avg": 53,
+    "network_mbps": 85.7,
+    "carbon_rate": 0.1423,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777960603090,
+    "rps": 783,
+    "cpu_avg": 56,
+    "memory_avg": 55.7,
+    "network_mbps": 79.8,
+    "carbon_rate": 0.1567,
+    "latency_p99": 161
+  },
+  {
+    "ts": 1777961203090,
+    "rps": 783,
+    "cpu_avg": 55.8,
+    "memory_avg": 51.3,
+    "network_mbps": 79.7,
+    "carbon_rate": 0.1561,
+    "latency_p99": 161
+  },
+  {
+    "ts": 1777961803090,
+    "rps": 823,
+    "cpu_avg": 48,
+    "memory_avg": 52.6,
+    "network_mbps": 83.8,
+    "carbon_rate": 0.1343,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777962403090,
+    "rps": 761,
+    "cpu_avg": 51.6,
+    "memory_avg": 51.9,
+    "network_mbps": 80.6,
+    "carbon_rate": 0.1442,
+    "latency_p99": 156
+  },
+  {
+    "ts": 1777963003090,
+    "rps": 818,
+    "cpu_avg": 50.5,
+    "memory_avg": 52.7,
+    "network_mbps": 84.9,
+    "carbon_rate": 0.1411,
+    "latency_p99": 158
+  },
+  {
+    "ts": 1777963603090,
+    "rps": 827,
+    "cpu_avg": 54.2,
+    "memory_avg": 52.8,
+    "network_mbps": 87.1,
+    "carbon_rate": 0.1516,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777964203090,
+    "rps": 809,
+    "cpu_avg": 55.3,
+    "memory_avg": 52.9,
+    "network_mbps": 84.4,
+    "carbon_rate": 0.1547,
+    "latency_p99": 161
+  },
+  {
+    "ts": 1777964803090,
+    "rps": 773,
+    "cpu_avg": 49.9,
+    "memory_avg": 53.5,
+    "network_mbps": 81.8,
+    "carbon_rate": 0.1394,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777965403090,
+    "rps": 761,
+    "cpu_avg": 55.3,
+    "memory_avg": 54.1,
+    "network_mbps": 78.1,
+    "carbon_rate": 0.1545,
+    "latency_p99": 147
+  },
+  {
+    "ts": 1777966003090,
+    "rps": 798,
+    "cpu_avg": 53.6,
+    "memory_avg": 54.9,
+    "network_mbps": 81.4,
+    "carbon_rate": 0.1499,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777966603090,
+    "rps": 800,
+    "cpu_avg": 56.4,
+    "memory_avg": 53.6,
+    "network_mbps": 84.7,
+    "carbon_rate": 0.1578,
+    "latency_p99": 159
+  },
+  {
+    "ts": 1777967203090,
+    "rps": 778,
+    "cpu_avg": 54.9,
+    "memory_avg": 51.2,
+    "network_mbps": 81.8,
+    "carbon_rate": 0.1535,
+    "latency_p99": 162
+  },
+  {
+    "ts": 1777967803090,
+    "rps": 763,
+    "cpu_avg": 52.4,
+    "memory_avg": 57.5,
+    "network_mbps": 78.4,
+    "carbon_rate": 0.1464,
+    "latency_p99": 144
+  },
+  {
+    "ts": 1777968403090,
+    "rps": 753,
+    "cpu_avg": 53,
+    "memory_avg": 56.5,
+    "network_mbps": 80.3,
+    "carbon_rate": 0.1482,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777969003090,
+    "rps": 791,
+    "cpu_avg": 48.9,
+    "memory_avg": 50.7,
+    "network_mbps": 81.5,
+    "carbon_rate": 0.1367,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777969603090,
+    "rps": 778,
+    "cpu_avg": 51.9,
+    "memory_avg": 57.5,
+    "network_mbps": 82.7,
+    "carbon_rate": 0.145,
+    "latency_p99": 159
+  },
+  {
+    "ts": 1777970203090,
+    "rps": 785,
+    "cpu_avg": 53.5,
+    "memory_avg": 50.4,
+    "network_mbps": 81.4,
+    "carbon_rate": 0.1496,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777970803090,
+    "rps": 740,
+    "cpu_avg": 53.5,
+    "memory_avg": 51.2,
+    "network_mbps": 77.5,
+    "carbon_rate": 0.1496,
+    "latency_p99": 160
+  },
+  {
+    "ts": 1777971403090,
+    "rps": 730,
+    "cpu_avg": 45.4,
+    "memory_avg": 52.8,
+    "network_mbps": 74.1,
+    "carbon_rate": 0.1269,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777972003090,
+    "rps": 790,
+    "cpu_avg": 50.2,
+    "memory_avg": 51.3,
+    "network_mbps": 82.4,
+    "carbon_rate": 0.1404,
+    "latency_p99": 158
+  },
+  {
+    "ts": 1777972603090,
+    "rps": 753,
+    "cpu_avg": 50.9,
+    "memory_avg": 56.6,
+    "network_mbps": 76.8,
+    "carbon_rate": 0.1422,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777973203090,
+    "rps": 759,
+    "cpu_avg": 47.5,
+    "memory_avg": 51.2,
+    "network_mbps": 79,
+    "carbon_rate": 0.1329,
+    "latency_p99": 154
+  },
+  {
+    "ts": 1777973803090,
+    "rps": 681,
+    "cpu_avg": 44.9,
+    "memory_avg": 50.2,
+    "network_mbps": 71.1,
+    "carbon_rate": 0.1255,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777974403090,
+    "rps": 680,
+    "cpu_avg": 49.5,
+    "memory_avg": 55.8,
+    "network_mbps": 72.3,
+    "carbon_rate": 0.1385,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777975003090,
+    "rps": 749,
+    "cpu_avg": 48.6,
+    "memory_avg": 54.8,
+    "network_mbps": 76.3,
+    "carbon_rate": 0.1358,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777975603090,
+    "rps": 677,
+    "cpu_avg": 43.7,
+    "memory_avg": 51.3,
+    "network_mbps": 69.3,
+    "carbon_rate": 0.1222,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777976203090,
+    "rps": 712,
+    "cpu_avg": 48.2,
+    "memory_avg": 54.6,
+    "network_mbps": 73.9,
+    "carbon_rate": 0.1348,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777976803090,
+    "rps": 701,
+    "cpu_avg": 45.7,
+    "memory_avg": 52.2,
+    "network_mbps": 73.9,
+    "carbon_rate": 0.1277,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777977403090,
+    "rps": 649,
+    "cpu_avg": 42.7,
+    "memory_avg": 54.3,
+    "network_mbps": 65.9,
+    "carbon_rate": 0.1195,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777978003090,
+    "rps": 677,
+    "cpu_avg": 47.5,
+    "memory_avg": 51.4,
+    "network_mbps": 72.1,
+    "carbon_rate": 0.1327,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777978603090,
+    "rps": 663,
+    "cpu_avg": 45.8,
+    "memory_avg": 54.8,
+    "network_mbps": 69.7,
+    "carbon_rate": 0.128,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777979203090,
+    "rps": 637,
+    "cpu_avg": 51.3,
+    "memory_avg": 52.7,
+    "network_mbps": 66.8,
+    "carbon_rate": 0.1434,
+    "latency_p99": 158
+  },
+  {
+    "ts": 1777979803090,
+    "rps": 636,
+    "cpu_avg": 43.3,
+    "memory_avg": 47.6,
+    "network_mbps": 66.4,
+    "carbon_rate": 0.1209,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777980403090,
+    "rps": 665,
+    "cpu_avg": 48.7,
+    "memory_avg": 54.3,
+    "network_mbps": 67.1,
+    "carbon_rate": 0.1363,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777981003090,
+    "rps": 608,
+    "cpu_avg": 48.5,
+    "memory_avg": 51.4,
+    "network_mbps": 63.2,
+    "carbon_rate": 0.1355,
+    "latency_p99": 156
+  },
+  {
+    "ts": 1777981603090,
+    "rps": 596,
+    "cpu_avg": 50.1,
+    "memory_avg": 50.7,
+    "network_mbps": 62.8,
+    "carbon_rate": 0.14,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777982203090,
+    "rps": 592,
+    "cpu_avg": 46.5,
+    "memory_avg": 46.8,
+    "network_mbps": 59.7,
+    "carbon_rate": 0.1299,
+    "latency_p99": 152
+  },
+  {
+    "ts": 1777982803090,
+    "rps": 540,
+    "cpu_avg": 40.3,
+    "memory_avg": 49.3,
+    "network_mbps": 56.7,
+    "carbon_rate": 0.1127,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777983403090,
+    "rps": 598,
+    "cpu_avg": 41.4,
+    "memory_avg": 50.4,
+    "network_mbps": 62.7,
+    "carbon_rate": 0.1157,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777984003090,
+    "rps": 542,
+    "cpu_avg": 48.3,
+    "memory_avg": 51.8,
+    "network_mbps": 58.8,
+    "carbon_rate": 0.1349,
+    "latency_p99": 155
+  },
+  {
+    "ts": 1777984603090,
+    "rps": 508,
+    "cpu_avg": 41.5,
+    "memory_avg": 47,
+    "network_mbps": 53.6,
+    "carbon_rate": 0.1161,
+    "latency_p99": 135
+  },
+  {
+    "ts": 1777985203090,
+    "rps": 496,
+    "cpu_avg": 41.6,
+    "memory_avg": 45.6,
+    "network_mbps": 53.3,
+    "carbon_rate": 0.1163,
+    "latency_p99": 132
+  },
+  {
+    "ts": 1777985803090,
+    "rps": 474,
+    "cpu_avg": 40.8,
+    "memory_avg": 47.2,
+    "network_mbps": 49.1,
+    "carbon_rate": 0.114,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777986403090,
+    "rps": 528,
+    "cpu_avg": 45.8,
+    "memory_avg": 51.3,
+    "network_mbps": 55.1,
+    "carbon_rate": 0.1281,
+    "latency_p99": 139
+  },
+  {
+    "ts": 1777987003090,
+    "rps": 512,
+    "cpu_avg": 44.1,
+    "memory_avg": 48.1,
+    "network_mbps": 56,
+    "carbon_rate": 0.1234,
+    "latency_p99": 144
+  },
+  {
+    "ts": 1777987603090,
+    "rps": 490,
+    "cpu_avg": 44.7,
+    "memory_avg": 51,
+    "network_mbps": 50.2,
+    "carbon_rate": 0.125,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777988203090,
+    "rps": 382,
+    "cpu_avg": 38.4,
+    "memory_avg": 45.5,
+    "network_mbps": 41.1,
+    "carbon_rate": 0.1075,
+    "latency_p99": 143
+  },
+  {
+    "ts": 1777988803090,
+    "rps": 438,
+    "cpu_avg": 37.7,
+    "memory_avg": 47,
+    "network_mbps": 45.9,
+    "carbon_rate": 0.1055,
+    "latency_p99": 136
+  },
+  {
+    "ts": 1777989403090,
+    "rps": 387,
+    "cpu_avg": 45.1,
+    "memory_avg": 49.8,
+    "network_mbps": 41.4,
+    "carbon_rate": 0.1261,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777990003090,
+    "rps": 417,
+    "cpu_avg": 41.4,
+    "memory_avg": 47,
+    "network_mbps": 45.2,
+    "carbon_rate": 0.1158,
+    "latency_p99": 149
+  },
+  {
+    "ts": 1777990603090,
+    "rps": 446,
+    "cpu_avg": 41.5,
+    "memory_avg": 50.4,
+    "network_mbps": 45.9,
+    "carbon_rate": 0.1161,
+    "latency_p99": 142
+  },
+  {
+    "ts": 1777991203090,
+    "rps": 436,
+    "cpu_avg": 41,
+    "memory_avg": 51,
+    "network_mbps": 43.9,
+    "carbon_rate": 0.1146,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777991803090,
+    "rps": 355,
+    "cpu_avg": 43.2,
+    "memory_avg": 47.3,
+    "network_mbps": 37.5,
+    "carbon_rate": 0.1207,
+    "latency_p99": 146
+  },
+  {
+    "ts": 1777992403090,
+    "rps": 340,
+    "cpu_avg": 39.1,
+    "memory_avg": 47.7,
+    "network_mbps": 37.6,
+    "carbon_rate": 0.1092,
+    "latency_p99": 141
+  },
+  {
+    "ts": 1777993003090,
+    "rps": 361,
+    "cpu_avg": 43.3,
+    "memory_avg": 44.5,
+    "network_mbps": 38.1,
+    "carbon_rate": 0.121,
+    "latency_p99": 140
+  },
+  {
+    "ts": 1777993603090,
+    "rps": 346,
+    "cpu_avg": 39.4,
+    "memory_avg": 45.4,
+    "network_mbps": 34.9,
+    "carbon_rate": 0.1101,
+    "latency_p99": 138
+  },
+  {
+    "ts": 1777994203090,
+    "rps": 335,
+    "cpu_avg": 39.6,
+    "memory_avg": 45,
+    "network_mbps": 36,
+    "carbon_rate": 0.1107,
+    "latency_p99": 137
+  },
+  {
+    "ts": 1777994803090,
+    "rps": 347,
+    "cpu_avg": 37.2,
+    "memory_avg": 49.4,
+    "network_mbps": 39.7,
+    "carbon_rate": 0.1041,
+    "latency_p99": 125
+  },
+  {
+    "ts": 1777995403090,
+    "rps": 958,
+    "cpu_avg": 60.8,
+    "memory_avg": 57.5,
+    "network_mbps": 98.9,
+    "carbon_rate": 0.1701,
+    "latency_p99": 161
+  },
+  {
+    "ts": 1777996003090,
+    "rps": 1003,
+    "cpu_avg": 58.2,
+    "memory_avg": 56.6,
+    "network_mbps": 103.6,
+    "carbon_rate": 0.1627,
+    "latency_p99": 151
+  },
+  {
+    "ts": 1777996603090,
+    "rps": 985,
+    "cpu_avg": 58.4,
+    "memory_avg": 59.2,
+    "network_mbps": 103.1,
+    "carbon_rate": 0.1632,
+    "latency_p99": 156
+  },
+  {
+    "ts": 1777997203090,
+    "rps": 949,
+    "cpu_avg": 51.2,
+    "memory_avg": 57.7,
+    "network_mbps": 96.2,
+    "carbon_rate": 0.1433,
+    "latency_p99": 150
+  },
+  {
+    "ts": 1777997803090,
+    "rps": 971,
+    "cpu_avg": 54.6,
+    "memory_avg": 57.1,
+    "network_mbps": 101.6,
+    "carbon_rate": 0.1527,
+    "latency_p99": 158
+  },
+  {
+    "ts": 1777998403090,
+    "rps": 951,
+    "cpu_avg": 56.5,
+    "memory_avg": 59.4,
+    "network_mbps": 99.2,
+    "carbon_rate": 0.158,
+    "latency_p99": 165
+  },
+  {
+    "ts": 1777999003090,
+    "rps": 264,
+    "cpu_avg": 34.5,
+    "memory_avg": 42.5,
+    "network_mbps": 27.6,
+    "carbon_rate": 0.0966,
+    "latency_p99": 124
+  },
+  {
+    "ts": 1777999603090,
+    "rps": 267,
+    "cpu_avg": 40.3,
+    "memory_avg": 44.2,
+    "network_mbps": 31,
+    "carbon_rate": 0.1126,
+    "latency_p99": 130
+  }
+]

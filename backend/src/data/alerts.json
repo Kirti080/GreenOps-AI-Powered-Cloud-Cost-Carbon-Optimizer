@@ -1,0 +1,66 @@
+[
+  {
+    "id": "a1",
+    "severity": "critical",
+    "title": "High CPU on prod-worker-us-west-01",
+    "message": "CPU usage sustained above 85% for 15+ minutes. Consider scaling horizontally or investigating runaway processes.",
+    "server": "prod-worker-us-west-01",
+    "ts": 1778051579342
+  },
+  {
+    "id": "a2",
+    "severity": "critical",
+    "title": "Traffic Spike Predicted — 21:00 IST",
+    "message": "AI forecast model (LSTM-v2) predicts 3.2× traffic surge at 21:00 IST. Pre-warm 3 additional instances by 20:30.",
+    "server": "prod-api-us-east-01",
+    "ts": 1778051699342
+  },
+  {
+    "id": "a3",
+    "severity": "warning",
+    "title": "GPU Instance Idle — ml-training-gpu-01",
+    "message": "p3.2xlarge running at 3% CPU for 18+ hours. Estimated waste: $55.08/day ($1,652/mo). Recommend termination.",
+    "server": "ml-training-gpu-01",
+    "ts": 1778051159342
+  },
+  {
+    "id": "a4",
+    "severity": "warning",
+    "title": "Staging Server Idle — staging-api-01",
+    "message": "t3.medium idle at 4% CPU for 6 hours outside business hours. Consider scheduled stop policy.",
+    "server": "staging-api-01",
+    "ts": 1778049959342
+  },
+  {
+    "id": "a5",
+    "severity": "success",
+    "title": "Auto-scale Completed Successfully",
+    "message": "prod-api-us-east-02 added to load balancer rotation. Health check passed in 12s. Traffic balanced.",
+    "server": "prod-api-us-east-02",
+    "ts": 1778048159342
+  },
+  {
+    "id": "a6",
+    "severity": "info",
+    "title": "Carbon Intensity Drop — EU-West Region",
+    "message": "UK National Grid carbon intensity fell to \"low\" (78 gCO₂/kWh). Consider migrating batch jobs to eu-west-1 for lower emissions.",
+    "server": "analytics-eu-west-01",
+    "ts": 1778046359342
+  },
+  {
+    "id": "a7",
+    "severity": "info",
+    "title": "Redis Memory Pressure Normal",
+    "message": "Cache hit ratio at 94.7%. Memory at 71% — well within thresholds. Eviction rate: 0 keys/sec.",
+    "server": "cache-redis-cluster-01",
+    "ts": 1778044559342
+  },
+  {
+    "id": "a8",
+    "severity": "warning",
+    "title": "Latency Spike — AP-South Edge",
+    "message": "P99 latency to ap-south-1 increased to 340ms (baseline: 180ms). ISP peering issue suspected.",
+    "server": "cdn-edge-ap-south-01",
+    "ts": 1778050859342
+  }
+]
